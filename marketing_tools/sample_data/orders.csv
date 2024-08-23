@@ -1,0 +1,104 @@
+Data de criação,Pedido pronto,Total de itens,Método de pagamento,Status,Total do pedido,Rua,Número,Bairro,Complemento,Cidade,Estado,CEP
+13/09/2023 23:19:40,13/09/2023 23:19:40,1,iFood,Concluído,R$ 92.98,R. Rua_1,144,Bairro_1,Apto 305 bloco B,Florianópolis,SC,88036050
+13/09/2023 23:19:40,13/09/2023 23:19:42,2,iFood,Concluído,R$ 50.13,R. Rua_2,231,Bairro_2,"Apto 301, Bloco D",Florianópolis,SC,88034040
+13/09/2023 23:19:40,13/09/2023 23:19:42,1,iFood,Concluído,R$ 107.77,Av. Avenida_1,680,Bairro_2,Apt 403 B,Florianópolis,SC,88034500
+13/09/2023 23:19:41,13/09/2023 23:19:42,1,iFood,Concluído,R$ 39.99,R. Rua_4,178,Bairro_1,Bloco A Apto 204,Florianópolis,SC,88036080
+13/09/2023 23:19:42,13/09/2023 23:19:43,3,iFood,Concluído,R$ 86.17,R. Rua_5,488,Bairro_3,Apartamento 202,Florianópolis,SC,88040600
+13/09/2023 23:19:42,13/09/2023 23:19:43,2,iFood,Concluído,R$ 80.47,Rod. Rodovia_1,1797,Bairro_2,Apto 302 Blc A,Florianópolis,SC,88034000
+13/09/2023 23:19:42,13/09/2023 23:19:44,1,iFood,Concluído,R$ 32.98,R. Rua_6,160,Bairro_2,Ap 402 bloco B,Florianópolis,SC,88034300
+13/09/2023 23:19:43,13/09/2023 23:19:44,1,iFood,Concluído,R$ 39.36,Rod. Rodovia_2,2371,Bairro_2,Apto 422 bloco Dakar,Florianópolis,SC,88034102
+13/09/2023 23:19:43,13/09/2023 23:19:44,1,iFood,Concluído,R$ 18.97,Serv. Servidão_1,134,Bairro_4,,Florianópolis,SC,88040100
+13/09/2023 23:19:43,13/09/2023 23:19:45,2,iFood,Concluído,R$ 196.32,R. Rua_7,900,Bairro_2,Apto 621 Bloco B,Florianópolis,SC,88034100
+13/09/2023 23:19:44,13/09/2023 23:19:45,1,iFood,Concluído,R$ 93.77,R. Rua_8,277,Bairro_1,Apto 301,Florianópolis,SC,88036800
+13/09/2023 23:19:44,13/09/2023 23:19:45,3,iFood,Concluído,R$ 55.57,Serv. Servidão_2,100,Bairro_5,,Florianópolis,SC,88037
+13/09/2023 23:19:44,13/09/2023 23:19:45,1,iFood,Concluído,R$ 27.99,R. Rua_2,98,Bairro_5,,Florianópolis,SC,88037408
+13/09/2023 23:19:45,13/09/2023 23:19:47,1,iFood,Concluído,R$ 59.99,R. Rua_9,135,Bairro_1,Ap 104 - Condominio Baviera,Florianópolis,SC,88036410
+13/09/2023 23:19:45,13/09/2023 23:19:46,2,iFood,Concluído,R$ 28.73,R. Rua_10,127,Bairro_2,Casa Rosa,Florianópolis,SC,88034210
+13/09/2023 23:19:45,13/09/2023 23:19:46,1,iFood,Concluído,R$ 41.38,Av. Avenida_2,322,Bairro_1,Apto 721,Florianópolis,SC,88036500
+13/09/2023 23:19:46,13/09/2023 23:19:49,1,iFood,Concluído,R$ 34.99,R. Rua_11,183,Bairro_6,Fundos À Direita,Florianópolis,SC,0
+13/09/2023 23:19:46,13/09/2023 23:19:48,1,iFood,Concluído,R$ 37.49,Av. Avenida_3,1425,Bairro_7,Apto 502,Florianópolis,SC,88020001
+13/09/2023 23:19:46,13/09/2023 23:19:48,2,iFood,Concluído,R$ 45.56,R. Rua_12,238,Bairro_4,404,Florianópolis,SC,88040250
+13/09/2023 23:19:47,13/09/2023 23:19:48,1,iFood,Concluído,R$ 111.02,Av. Avenida_3,1349,Centro,Apto 204,Florianópolis,SC,88020025
+13/09/2023 23:19:47,13/09/2023 23:19:49,2,iFood,Concluído,R$ 77.97,Av. Avenida_3,853,Centro,604,Florianópolis,SC,88020001
+13/09/2023 23:19:47,13/09/2023 23:19:49,1,iFood,Concluído,R$ 14.96,R. Rua_13,205,Bairro_1,Predio Max Flora,Florianópolis,SC,88036003
+13/09/2023 23:19:47,13/09/2023 23:19:48,3,iFood,Concluído,R$ 45.20,R. Rua_14,410,Bairro_1,Manhattan 1 Ap406 Bloco C3,Florianópolis,SC,88040400
+13/09/2023 23:19:48,13/09/2023 23:19:49,3,iFood,Concluído,R$ 23.58,Serv. Servidão_3,40,Bairro_8,Ap 106,Florianópolis,SC,88045543
+13/09/2023 23:19:48,13/09/2023 23:19:49,1,iFood,Concluído,R$ 33.62,R. Rua_12,105,Bairro_4,Casa,Florianópolis,SC,88040250
+14/09/2023 18:57:37,14/09/2023 19:17:49,2,iFood,Concluído,R$ 142.46,Rua Rua_15,755,Centro,Apto 102,Florianópolis,SC,88015070
+14/09/2023 20:04:55,14/09/2023 20:22:52,1,iFood,Concluído,R$ 84.98,R. Rua_13,970,Bairro_1,Apto 504 Bloco A,Florianópolis,SC,88036002
+14/09/2023 20:46:49,14/09/2023 21:33:22,1,iFood,Concluído,R$ 37.83,R. Rua_16,230,Bairro_2,Casa,Florianópolis,SC,88034450
+14/09/2023 20:53:57,14/09/2023 21:33:24,4,iFood,Concluído,R$ 61.73,R. Rua_17,0,Bairro_1,229,Florianópolis,SC,88036300
+14/09/2023 21:03:06,14/09/2023 21:33:37,1,iFood,Concluído,R$ 30.14,R. Rua_18,125,Bairro_9,Ap 108,Florianópolis,SC,88037010
+14/09/2023 21:04:38,14/09/2023 21:33:43,1,iFood,Concluído,R$ 32.63,R. Rua_19,128,Bairro_4,Casa,Florianópolis,SC,88040220
+14/09/2023 21:07:11,15/09/2023 19:27:53,4,iFood,Concluído,R$ 138.90,Av. Me. Benvenuta,322,Trindade,apto 727 bloco B,Florianopolis,SC,0
+14/09/2023 21:12:16,14/09/2023 22:08:54,1,iFood,Concluído,R$ 30.14,Servidão Laje de Pedra,171,Itacorubi,Casa 12,Florianopolis,SC,0
+14/09/2023 21:13:48,14/09/2023 21:58:08,2,iFood,Concluído,R$ 70.73,Rua Sebastião L. da Silva,170,Córrego Grande,apto 405,Florianópolis,SC,88037400
+14/09/2023 21:15:19,14/09/2023 22:20:36,1,iFood,Concluído,R$ 39.87,Rodovia João Paulo,764,João Paulo,Apto 702 bloco B,Florianópolis,SC,88030300
+14/09/2023 21:18:22,14/09/2023 22:14:00,1,iFood,Concluído,R$ 40.31,Rodovia João Paulo,435,João Paulo,Apto 202 B,Florianópolis,SC,88030300
+14/09/2023 21:24:28,14/09/2023 22:44:32,1,iFood,Concluído,R$ 30.14,R. Urcelino Manoel Coelho,77,Córrego Grande,Casa,Florianópolis,SC,88037050
+14/09/2023 21:25:30,14/09/2023 22:47:05,1,iFood,Concluído,R$ 30.44,R. João Pio Duarte Silva,404,Córrego Grande,Bloco 3 apto 406,Florianópolis,SC,88037000
+14/09/2023 21:29:34,14/09/2023 22:06:19,4,iFood,Concluído,R$ 66.10,Rua General Valgas Neves,115,Estreito,Casa,Florianópolis,SC,88075070
+14/09/2023 21:33:08,15/09/2023 19:27:55,1,iFood,Concluído,R$ 80.74,R. Rui Barbosa,116,Agronômica,Apt 202,Florianópolis,SC,88025300
+14/09/2023 21:33:39,14/09/2023 22:30:22,1,iFood,Concluído,R$ 30.14,Rod. Admar Gonzaga,2025,Itacorubi,Apto 108 / Bloco F2,Florianópolis,SC,88034000
+14/09/2023 21:36:11,15/09/2023 19:27:58,2,iFood,Concluído,R$ 29.99,R. Ver. Hélio Abreu,15,Trindade,Casa,Florianopolis,SC,0
+14/09/2023 21:42:50,14/09/2023 22:39:36,2,iFood,Concluído,R$ 45.77,Av. César Seara,36,Saco dos Limões,Apto 102 interfone 102,Florianópolis,SC,88040500
+14/09/2023 21:48:27,14/09/2023 22:42:09,1,iFood,Concluído,R$ 31.23,R. das Camélias,188,Saco dos Limões,Fundos,Florianópolis,SC,88040530
+15/09/2023 18:42:15,15/09/2023 19:28:01,1,iFood,Concluído,R$ 99.99,R. Lauro Linhares,657,Trindade,AP 206 B,Florianópolis,SC,0
+15/09/2023 18:48:54,15/09/2023 19:31:41,1,iFood,Concluído,R$ 80.48,Rod. Admar Gonzaga,1663,Itacorubi,308 A,Florianópolis,SC,88034000
+15/09/2023 19:04:11,15/09/2023 19:35:31,1,iFood,Concluído,R$ 86.26,Av. Carlos Gonzaga,216,Jd Anchieta,Casa,Florianópolis,SC,88037700
+15/09/2023 19:19:52,15/09/2023 19:46:19,2,iFood,Concluído,R$ 126.47,Servidão Catarina Sodré,93,Itacorubi,Casa,Florianópolis,SC,88034375
+15/09/2023 19:37:41,15/09/2023 20:19:32,1,iFood,Concluído,R$ 90.29,Servidão Amaral Antero Bastos,29,Itacorubi,Apartamento 801,Florianopolis,SC,0
+15/09/2023 19:53:57,15/09/2023 20:40:02,5,iFood,Concluído,R$ 187.95,R. Prof. Odilon Fernandes,77,Trindade,Apto 303,Florianópolis,SC,0
+15/09/2023 19:55:59,15/09/2023 20:40:06,2,iFood,Concluído,R$ 60.12,R. Bocaiúva,2304,Centro,,Florianópolis,SC,88015530
+15/09/2023 19:57:38,15/09/2023 20:54:07,1,iFood,Concluído,R$ 72.48,Av. Buriti,750,Itacorubi,Torre 2 Apto 402,Florianópolis,SC,88034500
+15/09/2023 20:09:13,15/09/2023 20:48:32,2,iFood,Concluído,R$ 68.73,R. Des. Vítor Lima,380,Trindade,Quarto 303,Florianópolis,SC,88040401
+15/09/2023 20:57:04,15/09/2023 21:28:40,1,iFood,Concluído,R$ 44.13,R. Tres Ac Rua Dois,31,Trindade,frente da igreja,Florianópolis,SC,88040425
+15/09/2023 21:00:38,15/09/2023 21:56:59,1,iFood,Concluído,R$ 101.03,R. Marli Maria da Silveira,43,Pantanal,Apto 204,Florianópolis,SC,88040060
+15/09/2023 21:08:19,15/09/2023 21:57:01,1,iFood,Concluído,R$ 47.63,R. Joe Collaço,870,Santa Monica,Casa,Florianópolis,SC,88035200
+15/09/2023 21:24:15,15/09/2023 21:57:02,1,iFood,Concluído,R$ 102.36,R. São Miguel,50,João Paulo,Restaurante Bom Prático E Barato,Florianópolis,SC,88030320
+15/09/2023 21:39:08,15/09/2023 22:41:42,1,Pix automático,Concluído,R$ 85.66,Rua Europa,370,Trindade,Apto 1131,Florianópolis,SC,88036135
+15/09/2023 21:43:43,15/09/2023 22:41:44,2,iFood,Concluído,R$ 66.21,R. Dep. Antônio Edu Vieira,902,Pantanal,Ap 203,Florianópolis,SC,88040001
+15/09/2023 21:51:19,15/09/2023 22:28:55,2,iFood,Concluído,R$ 134.44,Servidão Manoel Félix da Silva,163,Itacorubi,Casa 01,Florianópolis,SC,88034355
+15/09/2023 22:00:28,15/09/2023 22:37:02,1,iFood,Concluído,R$ 39.99,Servidão Feliciano Martins Vieira,158,Itacorubi,Apartamento 203,Florianópolis,SC,88034130
+16/09/2023 19:18:59,16/09/2023 20:43:06,1,iFood,Concluído,R$ 35.14,Av. Jorn. Rubéns de Arruda Ramos,3214,Centro,Apt 801,Florianópolis,SC,88015700
+16/09/2023 19:19:32,16/09/2023 20:43:15,1,iFood,Concluído,R$ 171.06,Av. Mauro Ramos,1250,Centro,Ap 33 Bloco B1,Florianópolis,SC,88020302
+16/09/2023 19:32:46,16/09/2023 20:43:14,1,iFood,Concluído,R$ 38.18,Servidão Wenceslau Martinho Vieira,67,Córrego Grande,Apto 302A,Florianópolis,SC,88037416
+16/09/2023 19:40:00,16/09/2023 20:43:11,2,iFood,Concluído,R$ 212.06,R. do Calafate,209,Pantanal,Apto 201,Florianopolis,SC,0
+16/09/2023 19:45:59,16/09/2023 20:43:12,1,iFood,Concluído,R$ 110.58,R. Luiz Oscar de Carvalho,75,Trindade,B2 33,Florianópolis,SC,88036400
+16/09/2023 19:47:30,16/09/2023 22:32:40,2,iFood,Concluído,R$ 70.73,Servidão Recanto Verde,155,Itacorubi,837,Florianópolis,SC,88034389
+16/09/2023 19:54:07,16/09/2023 22:32:44,1,iFood,Concluído,R$ 79.99,R. Pastor William Richard Schisler Filho,980,Itacorubi,701,Florianópolis,SC,88034100
+16/09/2023 19:55:08,16/09/2023 22:32:42,1,iFood,Concluído,R$ 48.58,R. Fernando Machado,261,Centro,Apto 1108,Florianópolis,SC,88020130
+16/09/2023 20:04:12,16/09/2023 22:32:46,4,Pix automático,Concluído,R$ 108.96,Rua Salomé Damázio Jacques,90,Trindade,Apto 602,Florianópolis,SC,88036650
+16/09/2023 20:09:05,16/09/2023 22:32:48,2,Pix automático,Concluído,R$ 144.44,Rua Tenente Silveira,324,Centro,Apto 101,Florianópolis,SC,88010300
+16/09/2023 20:11:29,16/09/2023 21:30:49,1,iFood,Concluído,R$ 114.96,R CRISOGONO VIEIRA DA CRUZ,76,LAGOA DA CONCEICAO,apt 21,FLORIANOPOLIS,SC,88062110
+16/09/2023 20:21:54,16/09/2023 22:32:51,1,Pix automático,Concluído,R$ 114.78,Rua Professor Clementino de Brito,205,Capoeiras,Apto 1206,Florianópolis,SC,88070150
+16/09/2023 20:24:25,16/09/2023 22:33:00,2,iFood,Concluído,R$ 77.78,R. Crispim Mira,405,Centro,,Florianópolis,SC,88020540
+16/09/2023 20:26:25,16/09/2023 22:33:01,1,Pix automático,Concluído,R$ 101.98,Rua Pastor William Richard Schisler Filho,900,Itacorubi,Apto 1421,Florianópolis,SC,88034100
+16/09/2023 20:34:22,16/09/2023 22:33:03,1,iFood,Concluído,R$ 44.99,R. Sérgio Lopes Falcão,185,Trindade,Apto 603,Florianópolis,SC,88036430
+16/09/2023 20:43:49,16/09/2023 22:33:05,1,iFood,Concluído,R$ 33.73,R. Clemente Rovere,256,Centro,,Florianópolis,SC,88020340
+16/09/2023 20:47:26,16/09/2023 22:33:07,3,iFood,Concluído,R$ 109.46,R. Cap. Romualdo de Barros,389,Saco dos Limões,Apto 106,Florianópolis,SC,88040600
+16/09/2023 20:51:28,16/09/2023 22:16:27,3,iFood,Concluído,R$ 189.01,R. Custódio Fermino Vieira,714,Saco dos Limões,Casa,Florianópolis,SC,88045300
+16/09/2023 20:52:29,16/09/2023 22:20:35,2,iFood,Concluído,R$ 86.50,R. Frei Evaristo,162,Centro,Ap 401,Florianópolis,SC,88015410
+16/09/2023 21:33:52,16/09/2023 22:33:09,1,iFood,Concluído,R$ 106.97,R. Juvêncio Costa,97,Trindade,Apart. 306,Florianópolis,SC,88036270
+18/09/2023 18:31:11,18/09/2023 19:16:38,1,iFood,Concluído,R$ 27.99,R. Dep. Antônio Edu Vieira,1074,Pantanal,Apto 01,Florianópolis,SC,88040001
+18/09/2023 19:18:00,18/09/2023 20:13:39,2,iFood,Concluído,R$ 56.72,R. Antônio Costa,11,Itacorubi,Ap 603B,Florianópolis,SC,88034050
+18/09/2023 19:53:53,18/09/2023 21:42:17,2,iFood,Cancelado,R$ 121.03,R. Lauro Linhares,1830,Trindade,Cond Jardim América Bloco Venezuela Ap 301,Florianópolis,SC,88036002
+18/09/2023 20:31:53,18/09/2023 20:42:54,1,iFood,Concluído,R$ 30.22,R. Jorn. Manoel Menezes,64,Itacorubi,Apto 503,Florianópolis,SC,88034060
+18/09/2023 20:42:44,18/09/2023 21:21:56,1,iFood,Concluído,R$ 38.29,R. Des. Vítor Lima,398,Trindade,Manhattan II - Bloco A3 apto 401,Florianópolis,SC,88040400
+18/09/2023 21:29:31,18/09/2023 22:27:58,2,iFood,Concluído,R$ 39.58,R. Profa. Maria Flora Pausewang,108,Trindade,Ramal 9173,Florianópolis,SC,88035
+18/09/2023 21:48:38,18/09/2023 22:28:00,1,iFood,Concluído,R$ 88.76,Rod. Amaro Antônio Viêira,2395,Itacorubi,407A2,Florianópolis,SC,88034102
+19/09/2023 18:33:53,19/09/2023 19:46:05,1,iFood,Concluído,R$ 40.76,Rua Antônio Eleutério Vieira,50,Agronômica,Apto 104B,Florianópolis,SC,88025380
+19/09/2023 18:43:08,19/09/2023 19:39:02,1,iFood,Concluído,R$ 27.99,Servidão Estelino da Silva,69,Itacorubi,Casa,Florianópolis,SC,88034255
+19/09/2023 18:58:57,19/09/2023 21:34:39,2,iFood,Concluído,R$ 86.34,R. Jerônimo Coelho,312,Centro,Loja Pesponto,Florianópolis,SC,88010030
+19/09/2023 19:05:33,19/09/2023 21:34:42,1,iFood,Concluído,R$ 43.13,R. Alves de Brito,254,Centro,Apto 802,Florianópolis,SC,88015440
+19/09/2023 19:24:03,19/09/2023 21:34:44,1,iFood,Concluído,R$ 107.95,R. João Pio Duarte Silva,576,Córrego Grande,APTO 101 BLOCO C,Florianopolis,SC,0
+19/09/2023 19:27:40,19/09/2023 21:34:45,1,iFood,Concluído,R$ 95.42,R. Jorge Amado,138,Lagoa da Conceição,,Florianópolis,SC,88062185
+19/09/2023 19:31:17,19/09/2023 21:34:47,1,iFood,Concluído,R$ 30.98,R. Profa. Maria Flora Pausewang,109,Trindade,Apto 102,Florianópolis,SC,88036800
+19/09/2023 19:41:34,19/09/2023 21:34:49,1,iFood,Concluído,R$ 30.98,Servidão Rodolfo Rodrigues Feijó,196,Itacorubi,Casa,Florianópolis,SC,88034220
+19/09/2023 20:05:34,19/09/2023 21:34:51,3,iFood,Concluído,R$ 80.27,R. Frontino Manoel Geremias,65,Carvoeira,Apto 202,Florianópolis,SC,88040480
+19/09/2023 20:13:47,19/09/2023 21:34:54,1,iFood,Concluído,R$ 101.17,R. Ernesto Stodieck,199,Centro,,Florianópolis,SC,88025130
+19/09/2023 20:54:25,19/09/2023 22:16:55,1,iFood,Concluído,R$ 37.86,R. Ravena,92,Itacorubi,,Florianópolis,SC,88034401
+19/09/2023 20:58:29,19/09/2023 22:16:58,1,iFood,Concluído,R$ 93.28,R. José Batista Rosa,161,Trindade,Apartamento 2,Florianópolis,SC,88036150
+19/09/2023 21:49:59,19/09/2023 22:29:16,2,iFood,Concluído,R$ 80.96,Rod. Amaro Antônio Viêra,2008,Itacorubi,bloco 14 ap 103,Florianopolis,SC,0
+20/09/2023 18:09:57,20/09/2023 21:15:18,1,iFood,Concluído,R$ 120.29,R. Acelon Eduardo da Silva,321,Córrego Grande,Casa,Florianópolis,SC,88037408
+20/09/2023 18:19:37,20/09/2023 20:34:04,1,iFood,Concluído,R$ 30.48,R. Lauro Linhares,2123,Trindade,Torre B Sala 205,Florianópolis,SC,88036000

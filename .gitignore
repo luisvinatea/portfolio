@@ -1,0 +1,105 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore editor files
+*.swp
+*.swo
+*.bak
+
+# Ignore compiled files
+*.class
+*.jar
+*.war
+*.ear
+
+# Ignore build output
+/build
+/dist
+/out
+
+# Ignore dependency directories
+/node_modules
+/vendor
+
+# Ignore logs
+/logs
+
+# Ignore configuration files
+.env
+config.ini
+
+# Ignore sensitive data
+secrets.txt
+
+# Ignore IDE files
+.idea
+.vscode
+
+# Ignore database files
+*.sqlite
+*.db
+*.sql
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore temporary files
+*.tmp
+*.temp
+*.log
+
+# Ignore package files
+*.tar
+*.gz
+*.zip
+*.rar
+
+# Ignore image files
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.svg
+
+# Ignore video files
+*.mp4
+*.avi
+*.mov
+*.flv
+
+# Ignore audio files
+*.mp3
+*.wav
+*.ogg
+*.flac
+
+# Ignore document files
+*.pdf
+*.doc
+*.docx
+*.xls
+*.xlsx
+*.ppt
+*.pptx
+
+# Ignore font files
+*.ttf
+*.otf
+*.woff
+*.woff2
+
+# Ignore cache files
+.cache
+.cached
+.cache/
+.cached/
+
+# Ignore binary files
+*.exe
+*.bin
+*.dll
+*.so
+*.dylib
+
