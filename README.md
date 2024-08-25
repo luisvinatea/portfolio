@@ -7,7 +7,7 @@ I’m a data-driven professional with a solid foundation in finance, currently d
 - **Data Science & Analytics**: Applying Python and SQL to extract insights and drive data-informed decisions.
 - **Backend Development**: Developing scalable applications using Node.js and Docker.
 - **Automation & Scripting**: Building tools and scripts that enhance productivity and simplify complex workflows.
-
+[![luisvinatea's GitHub stats](https://github-readme-stats.vercel.app/api?username=luisvinatea)](https://github.com/luisvinatea/github-readme-stats)
 [![luisvinatea's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=luisvinatea)](https://github.com/luivinatea/github-readme-stats)
 
 
