@@ -34,6 +34,5 @@ With a background in finance, I bring analytical thinking and a structured appro
 - Deepening my knowledge in cloud-native solutions and distributed systems.
 - Contributing more to open-source projects in the Linux and developer tools space.
 
-<!-- Invisible Mastodon verification link -->
-<a rel="me" href="https://mastodon.world/@luisvinatea" style="display:none;">Mastodon</a>
+<!-- Invisible Mastodon verification link --><a rel="me" href="https://mastodon.world/@luisvinatea" style="display:none;">Mastodon</a>
 
