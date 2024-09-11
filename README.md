@@ -8,13 +8,6 @@ I’m a data-driven professional with a solid foundation in finance, currently d
 - **Backend Development**: Developing scalable applications using Node.js and Docker.
 - **Automation & Scripting**: Building tools and scripts that enhance productivity and simplify complex workflows.
 
-<a href="https://github.com/luisvinatea/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=luisvinatea" />
-</a>
-<a href="https://github.com/luivinatea/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=luisvinatea" />
-</a>
-
 ## 🐧 Proud Fedora Linux User
 
 Since switching to Fedora, I've become passionate about using open-source tools. From setting up development environments to contributing to community projects, I’m all about embracing the open-source ecosystem.
