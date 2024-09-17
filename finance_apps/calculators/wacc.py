@@ -5,6 +5,7 @@ st.title('Valuation App: Financial Metrics Analysis')
 
 # Function to calculate WACC with actual cost of equity and debt values
 def calculate_wacc(equity, debt, interest_expense, tax_rate):
+
     total_value = equity + debt
     cost_of_equity = 0.1  # Replace with actual value if available
     cost_of_debt = interest_expense / debt if debt != 0 else 0
@@ -15,6 +16,7 @@ def calculate_wacc(equity, debt, interest_expense, tax_rate):
 
 # Function to calculate financial metrics
 def calculate_metrics(ticker_data, target_date):
+     
     try:
         # Extract necessary data
         financials = ticker_data['financials']
@@ -77,6 +79,7 @@ def calculate_metrics(ticker_data, target_date):
 
 # Load JSON data
 uploaded_file = st.file_uploader("Choose a JSON file")
+
 if uploaded_file is not None:
     data = json.load(uploaded_file)
     all_metrics = {}
