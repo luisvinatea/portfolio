@@ -1,0 +1,23 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7
+,,,,,,,
+,,,,,,,
+,,Tipo de interés recursos ajenos,,,,,   Se calcula comparando los gastos financieros con la deuda financiera
+,,Tipo del impuesto de sociedades,,,,,   Se calcula a través de los datos de la cuenta de explotación
+,,Tipo neto de interés recursos ajenos,,,,,
+,,,,,,,
+,,Tipo interés recursos propios,,,,,   Se calcula a través de la expresión R+(Rm-Rf)*B
+,,,,,,,
+,,Rf,,,,,   Según enunciado en su caso
+,,Rm,,,,,   Según enunciado en su caso
+,,(Rm-Rf),,,,,   Según enunciado en su caso
+,,β,,,,,   Según enunciado en su caso
+,,,,,,,
+,,,,,,,
+,,Peso de los Recursos propios,,,,,   Según balance
+,,Peso de los Recursos propios (capital),,,,,   Si se prefiere trabajar con el capital social
+,,Peso de los Recursos ajenos,,,,,   Según balance
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,WACC (según recursos propios),,,,,
+,,WACC (según capital),,,,,
