@@ -3,14 +3,14 @@ from selenium.webdriver.firefox.service import Service as FirefoxService
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-from selenium.common.exceptions import NoSuchElementException, TimeoutException, ElementClickInterceptedException
+from selenium.common.exceptions import NoSuchElementException, TimeoutException, ElementClickInterceptedException, WebDriverException
 import logging
 import os
 import time
 from dotenv import load_dotenv
 
 # Load environment variables from the .env file
-dotenv_path = "/app/.env"  # Adjust the path if necessary
+dotenv_path = ".env"  # Adjust the path if necessary
 load_dotenv(dotenv_path)
 
 # Get the credentials from the environment variables
@@ -22,10 +22,11 @@ logging.basicConfig(level=logging.DEBUG)  # Set to DEBUG level for detailed logs
 logger = logging.getLogger(__name__)
 
 # Path to your geckodriver
-gecko_driver_path = "/usr/local/bin/geckodriver"
+gecko_driver_path = "/usr/bin/geckodriver"
 
-# Initialize Firefox options
+# Initialize Firefox options for headless mode
 firefox_options = webdriver.FirefoxOptions()
+#firefox_options.add_argument("--headless")  # Run in headless mode
 firefox_options.set_preference("dom.webnotifications.enabled", False)
 firefox_options.set_preference("dom.push.enabled", False)
 firefox_options.set_preference("privacy.trackingprotection.enabled", True)
@@ -33,158 +34,148 @@ firefox_options.set_preference("privacy.trackingprotection.enabled", True)
 # Initialize the WebDriver Service
 service = FirefoxService(gecko_driver_path)
 
-# Function to handle the cookie consent
-def handle_cookie_consent(driver):
+# Function to dismiss the cookie consent banner if present
+def dismiss_cookie_banner(driver):
     try:
-        cookie_button = WebDriverWait(driver, 10).until(
-            EC.element_to_be_clickable((By.XPATH, "/html/body/div[1]/div/a[1]"))
+        cookie_banner_xpath = "/html/body/div[1]/div/a[1]"
+        WebDriverWait(driver, 10).until(
+            EC.element_to_be_clickable((By.XPATH, cookie_banner_xpath))
         )
-        driver.execute_script("arguments[0].click();", cookie_button)
-        logger.info("Clicked the cookie consent button using JavaScript")
+        cookie_banner_button = driver.find_element(By.XPATH, cookie_banner_xpath)
+        driver.execute_script("arguments[0].click();", cookie_banner_button)
+        logger.info("Cookie banner dismissed successfully.")
     except (NoSuchElementException, TimeoutException, ElementClickInterceptedException) as e:
-        logger.info(f"Cookie consent button not found or not clickable: {e}")
+        logger.info("No cookie banner found or already dismissed.")
 
-# Function to handle the first banner
-def handle_first_banner(driver):
+# Function to trigger the login form using Selenium
+def trigger_login_form(driver):
     try:
-        banner_button = WebDriverWait(driver, 10).until(
-            EC.element_to_be_clickable((By.XPATH, "/html/body/div[14]/div[1]/div[2]/div/div[1]"))
-        )
-        driver.execute_script("arguments[0].click();", banner_button)
-        logger.info("Clicked the first banner's deny button using JavaScript")
-    except (NoSuchElementException, TimeoutException, ElementClickInterceptedException) as e:
-        logger.info(f"First banner not found or not clickable: {e}")
-
-# Function to navigate to the website
-def navigate_to_login_page(driver):
-    driver.get("https://freebitco.in/")
-    handle_cookie_consent(driver)
-    handle_first_banner(driver)
-    try:
+        # Correct XPath to trigger the login form
+        login_xpath = "/html/body/div[1]/div/nav/section/ul/li[10]/a"
         login_button = WebDriverWait(driver, 20).until(
-            EC.element_to_be_clickable((By.CSS_SELECTOR, "li.login_menu_button a"))
+            EC.element_to_be_clickable((By.XPATH, login_xpath))
         )
         driver.execute_script("arguments[0].click();", login_button)
-        logger.info("Clicked the LOGIN button using JavaScript")
+        logger.info("Login tab clicked successfully.")
     except (NoSuchElementException, TimeoutException, ElementClickInterceptedException) as e:
-        logger.error(f"Login button not found: {e}", exc_info=True)
+        logger.error(f"An error occurred while triggering the login form: {e}", exc_info=True)
 
-# Function to login
+# Function to login using Selenium
 def login(driver):
     try:
-        # Wait for the login form to be visible
-        WebDriverWait(driver, 30).until(
-            EC.visibility_of_element_located((By.ID, "login_form"))
+        # Wait for the login form to be visible, ensure that the form is interactable
+        login_form_xpath = "//*[@id='login_form']"
+        WebDriverWait(driver, 20, poll_frequency=1).until(
+            EC.visibility_of_element_located((By.XPATH, login_form_xpath))
         )
-        logger.info("Login form is visible")
+        logger.info("Login form is visible and interactable.")
 
         # Wait for the login elements to load
-        email_field = WebDriverWait(driver, 20).until(
+        email_field = WebDriverWait(driver, 10).until(
             EC.presence_of_element_located((By.ID, "login_form_btc_address"))
         )
-        password_field = WebDriverWait(driver, 20).until(
+        password_field = WebDriverWait(driver, 10).until(
             EC.presence_of_element_located((By.ID, "login_form_password"))
         )
-        login_button = WebDriverWait(driver, 20).until(
+        login_button = WebDriverWait(driver, 10).until(
             EC.element_to_be_clickable((By.ID, "login_button"))
         )
-        logger.info("Login elements located")
-
-        # Ensure elements are interactable
-        driver.execute_script("arguments[0].scrollIntoView(true);", email_field)
-        driver.execute_script("arguments[0].scrollIntoView(true);", password_field)
-        driver.execute_script("arguments[0].scrollIntoView(true);", login_button)
-        logger.info("Elements scrolled into view")
+        logger.info("Login elements located.")
 
         # Enter login credentials
         email_field.send_keys(EMAIL)
         password_field.send_keys(PASSWORD)
         driver.execute_script("arguments[0].click();", login_button)
-        logger.info("Login form submitted using JavaScript")
+        logger.info("Login form submitted using JavaScript.")
 
         # Wait for the login process to complete
         WebDriverWait(driver, 20).until(
-            EC.presence_of_element_located((By.LINK_TEXT, "FREE BTC"))
+            EC.presence_of_element_located((By.XPATH, "/html/body/div[1]/div/nav/section/ul/li[2]/a"))
         )
-        logger.info("Login process complete")
-    except (NoSuchElementException, TimeoutException, ElementClickInterceptedException) as e:
+        logger.info("Login process complete.")
+        
+    except TimeoutException:
+        logger.error("Timed out waiting for login elements.")
+    except Exception as e:
         logger.error(f"An error occurred during login: {e}", exc_info=True)
 
-    finally:
-        # Function to dismiss the banner that pops up after login
+# Function to check for countdown and roll
+def check_countdown_and_roll(driver):
+    try:
+        # Check if countdown is active
+        countdown_xpath = "//*[@id='time_remaining']"
         try:
-            banner = WebDriverWait(driver, 10).until(
-                EC.element_to_be_clickable((By.XPATH, "/html/body/div[9]/a"))
+            countdown = WebDriverWait(driver, 5).until(
+                EC.presence_of_element_located((By.XPATH, countdown_xpath))
             )
-            driver.execute_script("arguments[0].click();", banner)
-            logger.info("Closed the banner using JavaScript")
-        except (NoSuchElementException, TimeoutException, ElementClickInterceptedException) as e:
-            logger.info(f"Banner not found or not clickable: {e}")
+            time_remaining = countdown.text
+            logger.info(f"Countdown active: {time_remaining}")
+            return time_remaining
+        except TimeoutException:
+            logger.info("No countdown detected, attempting to roll.")
+            return None
+    except Exception as e:
+        logger.error(f"An error occurred while checking the countdown: {e}", exc_info=True)
 
-# Function to log earnings
-def log_earnings(session_start_balance, session_end_balance):
-    earnings = float(session_end_balance) - float(session_start_balance)
-    log_entry = f"Session Earnings: {earnings} BTC (Start: {session_start_balance}, End: {session_end_balance})\n"
-    with open("btc_earnings_log.txt", "a") as log_file:
-        log_file.write(log_entry)
-    logger.info(log_entry)
+# Function to handle the "Play without Captcha" button and "ROLL" button
+def roll_without_captcha(driver):
+    try:
+        # Click the "Play without Captcha" button
+        play_without_captcha_xpath = "//*[@id='play_without_captchas_button']"
+        play_button = WebDriverWait(driver, 20).until(
+            EC.element_to_be_clickable((By.XPATH, play_without_captcha_xpath))
+        )
+        driver.execute_script("arguments[0].click();", play_button)
+        logger.info("Clicked 'Play without Captcha' button.")
 
-# Function to wait until the next roll
-def wait_until_next_roll(driver):
-    while True:
-        try:
-            roll_button = WebDriverWait(driver, 30).until(
-                EC.element_to_be_clickable((By.XPATH, "/html/body/div[2]/div/div/div[7]/p[3]/input"))
-            )
-            logger.info("Roll button located")
+        # Click the "ROLL" button after triggering play without captcha
+        roll_button_xpath = "//*[@id='free_play_form_button']"
+        roll_button = WebDriverWait(driver, 20).until(
+            EC.element_to_be_clickable((By.XPATH, roll_button_xpath))
+        )
+        driver.execute_script("arguments[0].click();", roll_button)
+        logger.info("Successfully clicked the 'ROLL' button.")
 
-            # Scroll into view and ensure the button is interactable
-            driver.execute_script("arguments[0].scrollIntoView(true);", roll_button)
-            time.sleep(2)  # Adding a slight delay to ensure the element is interactable
-            driver.execute_script("arguments[0].click();", roll_button)
-            logger.info("Clicked the ROLL! button using JavaScript")
+    except (NoSuchElementException, TimeoutException, ElementClickInterceptedException) as e:
+        logger.error(f"An error occurred while trying to roll: {e}", exc_info=True)
 
-            initial_balance = driver.find_element(By.CSS_SELECTOR, "span#balance").text
-            logger.debug(f"Initial balance: {initial_balance}")
-
-            WebDriverWait(driver, 60).until(
-                lambda driver: driver.find_element(By.CSS_SELECTOR, "span#balance").text != initial_balance
-            )
-            new_balance = driver.find_element(By.CSS_SELECTOR, "span#balance").text
-            logger.info(f"New balance: {new_balance}")
-
-            if initial_balance != new_balance:
-                logger.info("Balance has changed successfully")
-                log_earnings(initial_balance, new_balance)
+# Main execution flow
+if __name__ == '__main__':
+    try:
+        # Initialize the WebDriver
+        driver = webdriver.Firefox(service=service, options=firefox_options)
+        logger.info("WebDriver initialized successfully.")
+        
+        # Navigate to the page
+        driver.get("https://freebitco.in")
+        
+        # Dismiss the cookie consent banner if present
+        dismiss_cookie_banner(driver)
+        
+        # Trigger the login tab
+        trigger_login_form(driver)
+        
+        # Proceed with the login process
+        login(driver)
+        
+        while True:
+            # Check if there's a countdown or we can roll
+            countdown = check_countdown_and_roll(driver)
+            
+            if countdown:
+                # If a countdown is active, wait and check again after a while
+                logger.info(f"Waiting for countdown: {countdown}. Checking again in 5 minutes.")
+                time.sleep(300)  # Sleep for 5 minutes before checking again
             else:
-                logger.warning("Balance did not change")
+                # Attempt to perform the roll action
+                roll_without_captcha(driver)
+                logger.info("Waiting for the next roll. Checking in 60 minutes.")
+                time.sleep(3600)  # Sleep for 1 hour before checking again
 
-            try:
-                additional_banner = WebDriverWait(driver, 10).until(
-                    EC.element_to_be_clickable((By.XPATH, "/html/body/div[9]/a"))
-                )
-                driver.execute_script("arguments[0].click();", additional_banner)
-                logger.info("Closed the additional banner using JavaScript")
-            except (NoSuchElementException, TimeoutException, ElementClickInterceptedException) as e:
-                logger.info(f"Additional banner not found or not clickable: {e}")
+    except WebDriverException as e:
+        logger.error(f"An error occurred with the WebDriver: {e}", exc_info=True)
 
-            time.sleep(3900)
-        except (NoSuchElementException, TimeoutException, ElementClickInterceptedException) as e:
-            logger.error(f"An error occurred: {e}", exc_info=True)
-
-# Initialize the WebDriver only once
-try:
-    driver = webdriver.Firefox(service=service, options=firefox_options)
-    logger.info("WebDriver initialized successfully.")
-    navigate_to_login_page(driver)
-    login(driver)
-
-    while True:
-        try:
-            wait_until_next_roll(driver)
-        except Exception as e:
-            logger.error(f"An error occurred: {e}", exc_info=True)
-
-finally:
-    driver.quit()
-    logger.info("Driver quit successfully.")
+    finally:
+        if 'driver' in locals():
+            driver.quit()
+            logger.info("Driver quit successfully.")
