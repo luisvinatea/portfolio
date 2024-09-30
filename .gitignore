@@ -103,3 +103,10 @@ Thumbs.db
 *.so
 *.dylib
 
+# Ignore certificates and credentials
+*.pem
+*.cert
+*.key
+*.asc
+*.gpg
+*.pgp
