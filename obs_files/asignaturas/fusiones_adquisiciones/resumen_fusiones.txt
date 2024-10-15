@@ -1,0 +1,700 @@
+Fusión entre AAPL y MSFT:Año: 2024
+Ganancias Combinadas: 1714.92 millones
+Impacto Sinergias: 17.15 millones
+Ganancias Totales: 1707.07 millones
+BPA Nicolas (€ p.a.): 0.21
+BPA Gabriela (€ p.a.): 0.32
+BPA Combinada (€ p.a.): 0.28
+Market Cap Nicolas: 462600.01 millones
+Market Cap Gabriela: 1676560.06 millones
+PER Nicolas: 1078.61
+PER Gabriela: 1303.67
+
+Año: 2025
+Ganancias Combinadas: 1886.41 millones
+Impacto Sinergias: 37.73 millones
+Ganancias Totales: 1899.14 millones
+BPA Nicolas (€ p.a.): 0.21
+BPA Gabriela (€ p.a.): 0.32
+BPA Combinada (€ p.a.): 0.32
+Market Cap Nicolas: 462600.01 millones
+Market Cap Gabriela: 1676560.06 millones
+PER Nicolas: 1078.61
+PER Gabriela: 1303.67
+
+
+Fusión entre AAPL y GOOGL:Año: 2024
+Ganancias Combinadas: 1160.50 millones
+Impacto Sinergias: 11.61 millones
+Ganancias Totales: 1147.11 millones
+BPA Nicolas (€ p.a.): 0.21
+BPA Gabriela (€ p.a.): 0.18
+BPA Combinada (€ p.a.): 0.19
+Market Cap Nicolas: 462600.01 millones
+Market Cap Gabriela: 659840.03 millones
+PER Nicolas: 1078.61
+PER Gabriela: 901.89
+
+Año: 2025
+Ganancias Combinadas: 1276.55 millones
+Impacto Sinergias: 25.53 millones
+Ganancias Totales: 1277.08 millones
+BPA Nicolas (€ p.a.): 0.21
+BPA Gabriela (€ p.a.): 0.18
+BPA Combinada (€ p.a.): 0.21
+Market Cap Nicolas: 462600.01 millones
+Market Cap Gabriela: 659840.03 millones
+PER Nicolas: 1078.61
+PER Gabriela: 901.89
+
+
+Fusión entre AAPL y AMZN:Año: 2024
+Ganancias Combinadas: 1252.51 millones
+Impacto Sinergias: 12.53 millones
+Ganancias Totales: 1240.04 millones
+BPA Nicolas (€ p.a.): 0.21
+BPA Gabriela (€ p.a.): 0.21
+BPA Combinada (€ p.a.): 0.21
+Market Cap Nicolas: 462600.01 millones
+Market Cap Gabriela: 750159.97 millones
+PER Nicolas: 1078.61
+PER Gabriela: 910.80
+
+Año: 2025
+Ganancias Combinadas: 1377.76 millones
+Impacto Sinergias: 27.56 millones
+Ganancias Totales: 1380.32 millones
+BPA Nicolas (€ p.a.): 0.21
+BPA Gabriela (€ p.a.): 0.21
+BPA Combinada (€ p.a.): 0.23
+Market Cap Nicolas: 462600.01 millones
+Market Cap Gabriela: 750159.97 millones
+PER Nicolas: 1078.61
+PER Gabriela: 910.80
+
+
+Fusión entre AAPL y META:Año: 2024
+Ganancias Combinadas: 4373.63 millones
+Impacto Sinergias: 43.74 millones
+Ganancias Totales: 4392.36 millones
+BPA Nicolas (€ p.a.): 0.21
+BPA Gabriela (€ p.a.): 0.99
+BPA Combinada (€ p.a.): 0.73
+Market Cap Nicolas: 462600.01 millones
+Market Cap Gabriela: 2361679.93 millones
+PER Nicolas: 1078.61
+PER Gabriela: 598.69
+
+Año: 2025
+Ganancias Combinadas: 4810.99 millones
+Impacto Sinergias: 96.22 millones
+Ganancias Totales: 4882.21 millones
+BPA Nicolas (€ p.a.): 0.21
+BPA Gabriela (€ p.a.): 0.99
+BPA Combinada (€ p.a.): 0.81
+Market Cap Nicolas: 462600.01 millones
+Market Cap Gabriela: 2361679.93 millones
+PER Nicolas: 1078.61
+PER Gabriela: 598.69
+
+
+Fusión entre AAPL y NFLX:Año: 2024
+Ganancias Combinadas: 5146.73 millones
+Impacto Sinergias: 51.47 millones
+Ganancias Totales: 5173.19 millones
+BPA Nicolas (€ p.a.): 0.21
+BPA Gabriela (€ p.a.): 1.18
+BPA Combinada (€ p.a.): 0.86
+Market Cap Nicolas: 462600.01 millones
+Market Cap Gabriela: 2852000.00 millones
+PER Nicolas: 1078.61
+PER Gabriela: 604.51
+
+Año: 2025
+Ganancias Combinadas: 5661.40 millones
+Impacto Sinergias: 113.23 millones
+Ganancias Totales: 5749.63 millones
+BPA Nicolas (€ p.a.): 0.21
+BPA Gabriela (€ p.a.): 1.18
+BPA Combinada (€ p.a.): 0.96
+Market Cap Nicolas: 462600.01 millones
+Market Cap Gabriela: 2852000.00 millones
+PER Nicolas: 1078.61
+PER Gabriela: 604.51
+
+
+Fusión entre AAPL y TSLA:Año: 2024
+Ganancias Combinadas: 418.90 millones
+Impacto Sinergias: 4.19 millones
+Ganancias Totales: 398.09 millones
+BPA Nicolas (€ p.a.): 0.21
+BPA Gabriela (€ p.a.): -0.00
+BPA Combinada (€ p.a.): 0.07
+Market Cap Nicolas: 462600.01 millones
+Market Cap Gabriela: 876640.01 millones
+PER Nicolas: 1078.61
+PER Gabriela: -87808.43
+
+Año: 2025
+Ganancias Combinadas: 460.79 millones
+Impacto Sinergias: 9.22 millones
+Ganancias Totales: 445.01 millones
+BPA Nicolas (€ p.a.): 0.21
+BPA Gabriela (€ p.a.): -0.00
+BPA Combinada (€ p.a.): 0.07
+Market Cap Nicolas: 462600.01 millones
+Market Cap Gabriela: 876640.01 millones
+PER Nicolas: 1078.61
+PER Gabriela: -87808.43
+
+
+Fusión entre AAPL y NVDA:Año: 2024
+Ganancias Combinadas: 1995.62 millones
+Impacto Sinergias: 19.96 millones
+Ganancias Totales: 1990.57 millones
+BPA Nicolas (€ p.a.): 0.21
+BPA Gabriela (€ p.a.): 0.39
+BPA Combinada (€ p.a.): 0.33
+Market Cap Nicolas: 462600.01 millones
+Market Cap Gabriela: 552280.03 millones
+PER Nicolas: 1078.61
+PER Gabriela: 352.50
+
+Año: 2025
+Ganancias Combinadas: 2195.18 millones
+Impacto Sinergias: 43.90 millones
+Ganancias Totales: 2214.08 millones
+BPA Nicolas (€ p.a.): 0.21
+BPA Gabriela (€ p.a.): 0.39
+BPA Combinada (€ p.a.): 0.37
+Market Cap Nicolas: 462600.01 millones
+Market Cap Gabriela: 552280.03 millones
+PER Nicolas: 1078.61
+PER Gabriela: 352.50
+
+
+Fusión entre MSFT y GOOGL:Año: 2024
+Ganancias Combinadas: 1374.63 millones
+Impacto Sinergias: 13.75 millones
+Ganancias Totales: 1363.38 millones
+BPA Nicolas (€ p.a.): 0.32
+BPA Gabriela (€ p.a.): 0.18
+BPA Combinada (€ p.a.): 0.23
+Market Cap Nicolas: 838280.03 millones
+Market Cap Gabriela: 659840.03 millones
+PER Nicolas: 1303.67
+PER Gabriela: 901.89
+
+Año: 2025
+Ganancias Combinadas: 1512.10 millones
+Impacto Sinergias: 30.24 millones
+Ganancias Totales: 1517.34 millones
+BPA Nicolas (€ p.a.): 0.32
+BPA Gabriela (€ p.a.): 0.18
+BPA Combinada (€ p.a.): 0.25
+Market Cap Nicolas: 838280.03 millones
+Market Cap Gabriela: 659840.03 millones
+PER Nicolas: 1303.67
+PER Gabriela: 901.89
+
+
+Fusión entre MSFT y AMZN:Año: 2024
+Ganancias Combinadas: 1466.65 millones
+Impacto Sinergias: 14.67 millones
+Ganancias Totales: 1456.31 millones
+BPA Nicolas (€ p.a.): 0.32
+BPA Gabriela (€ p.a.): 0.21
+BPA Combinada (€ p.a.): 0.24
+Market Cap Nicolas: 838280.03 millones
+Market Cap Gabriela: 750159.97 millones
+PER Nicolas: 1303.67
+PER Gabriela: 910.80
+
+Año: 2025
+Ganancias Combinadas: 1613.31 millones
+Impacto Sinergias: 32.27 millones
+Ganancias Totales: 1620.58 millones
+BPA Nicolas (€ p.a.): 0.32
+BPA Gabriela (€ p.a.): 0.21
+BPA Combinada (€ p.a.): 0.27
+Market Cap Nicolas: 838280.03 millones
+Market Cap Gabriela: 750159.97 millones
+PER Nicolas: 1303.67
+PER Gabriela: 910.80
+
+
+Fusión entre MSFT y META:Año: 2024
+Ganancias Combinadas: 4587.76 millones
+Impacto Sinergias: 45.88 millones
+Ganancias Totales: 4608.64 millones
+BPA Nicolas (€ p.a.): 0.32
+BPA Gabriela (€ p.a.): 0.99
+BPA Combinada (€ p.a.): 0.77
+Market Cap Nicolas: 838280.03 millones
+Market Cap Gabriela: 2361679.93 millones
+PER Nicolas: 1303.67
+PER Gabriela: 598.69
+
+Año: 2025
+Ganancias Combinadas: 5046.54 millones
+Impacto Sinergias: 100.93 millones
+Ganancias Totales: 5122.47 millones
+BPA Nicolas (€ p.a.): 0.32
+BPA Gabriela (€ p.a.): 0.99
+BPA Combinada (€ p.a.): 0.85
+Market Cap Nicolas: 838280.03 millones
+Market Cap Gabriela: 2361679.93 millones
+PER Nicolas: 1303.67
+PER Gabriela: 598.69
+
+
+Fusión entre MSFT y NFLX:Año: 2024
+Ganancias Combinadas: 5360.86 millones
+Impacto Sinergias: 53.61 millones
+Ganancias Totales: 5389.47 millones
+BPA Nicolas (€ p.a.): 0.32
+BPA Gabriela (€ p.a.): 1.18
+BPA Combinada (€ p.a.): 0.90
+Market Cap Nicolas: 838280.03 millones
+Market Cap Gabriela: 2852000.00 millones
+PER Nicolas: 1303.67
+PER Gabriela: 604.51
+
+Año: 2025
+Ganancias Combinadas: 5896.94 millones
+Impacto Sinergias: 117.94 millones
+Ganancias Totales: 5989.88 millones
+BPA Nicolas (€ p.a.): 0.32
+BPA Gabriela (€ p.a.): 1.18
+BPA Combinada (€ p.a.): 1.00
+Market Cap Nicolas: 838280.03 millones
+Market Cap Gabriela: 2852000.00 millones
+PER Nicolas: 1303.67
+PER Gabriela: 604.51
+
+
+Fusión entre MSFT y TSLA:Año: 2024
+Ganancias Combinadas: 633.03 millones
+Impacto Sinergias: 6.33 millones
+Ganancias Totales: 614.36 millones
+BPA Nicolas (€ p.a.): 0.32
+BPA Gabriela (€ p.a.): -0.00
+BPA Combinada (€ p.a.): 0.10
+Market Cap Nicolas: 838280.03 millones
+Market Cap Gabriela: 876640.01 millones
+PER Nicolas: 1303.67
+PER Gabriela: -87808.43
+
+Año: 2025
+Ganancias Combinadas: 696.34 millones
+Impacto Sinergias: 13.93 millones
+Ganancias Totales: 685.26 millones
+BPA Nicolas (€ p.a.): 0.32
+BPA Gabriela (€ p.a.): -0.00
+BPA Combinada (€ p.a.): 0.11
+Market Cap Nicolas: 838280.03 millones
+Market Cap Gabriela: 876640.01 millones
+PER Nicolas: 1303.67
+PER Gabriela: -87808.43
+
+
+Fusión entre MSFT y NVDA:Año: 2024
+Ganancias Combinadas: 2209.75 millones
+Impacto Sinergias: 22.10 millones
+Ganancias Totales: 2206.85 millones
+BPA Nicolas (€ p.a.): 0.32
+BPA Gabriela (€ p.a.): 0.39
+BPA Combinada (€ p.a.): 0.37
+Market Cap Nicolas: 838280.03 millones
+Market Cap Gabriela: 552280.03 millones
+PER Nicolas: 1303.67
+PER Gabriela: 352.50
+
+Año: 2025
+Ganancias Combinadas: 2430.73 millones
+Impacto Sinergias: 48.61 millones
+Ganancias Totales: 2454.34 millones
+BPA Nicolas (€ p.a.): 0.32
+BPA Gabriela (€ p.a.): 0.39
+BPA Combinada (€ p.a.): 0.41
+Market Cap Nicolas: 838280.03 millones
+Market Cap Gabriela: 552280.03 millones
+PER Nicolas: 1303.67
+PER Gabriela: 352.50
+
+
+Fusión entre GOOGL y AMZN:Año: 2024
+Ganancias Combinadas: 1189.44 millones
+Impacto Sinergias: 11.89 millones
+Ganancias Totales: 1176.33 millones
+BPA Nicolas (€ p.a.): 0.18
+BPA Gabriela (€ p.a.): 0.21
+BPA Combinada (€ p.a.): 0.20
+Market Cap Nicolas: 329920.01 millones
+Market Cap Gabriela: 750159.97 millones
+PER Nicolas: 901.89
+PER Gabriela: 910.80
+
+Año: 2025
+Ganancias Combinadas: 1308.38 millones
+Impacto Sinergias: 26.17 millones
+Ganancias Totales: 1309.55 millones
+BPA Nicolas (€ p.a.): 0.18
+BPA Gabriela (€ p.a.): 0.21
+BPA Combinada (€ p.a.): 0.22
+Market Cap Nicolas: 329920.01 millones
+Market Cap Gabriela: 750159.97 millones
+PER Nicolas: 901.89
+PER Gabriela: 910.80
+
+
+Fusión entre GOOGL y META:Año: 2024
+Ganancias Combinadas: 4310.55 millones
+Impacto Sinergias: 43.11 millones
+Ganancias Totales: 4328.66 millones
+BPA Nicolas (€ p.a.): 0.18
+BPA Gabriela (€ p.a.): 0.99
+BPA Combinada (€ p.a.): 0.72
+Market Cap Nicolas: 329920.01 millones
+Market Cap Gabriela: 2361679.93 millones
+PER Nicolas: 901.89
+PER Gabriela: 598.69
+
+Año: 2025
+Ganancias Combinadas: 4741.61 millones
+Impacto Sinergias: 94.83 millones
+Ganancias Totales: 4811.44 millones
+BPA Nicolas (€ p.a.): 0.18
+BPA Gabriela (€ p.a.): 0.99
+BPA Combinada (€ p.a.): 0.80
+Market Cap Nicolas: 329920.01 millones
+Market Cap Gabriela: 2361679.93 millones
+PER Nicolas: 901.89
+PER Gabriela: 598.69
+
+
+Fusión entre GOOGL y NFLX:Año: 2024
+Ganancias Combinadas: 5083.65 millones
+Impacto Sinergias: 50.84 millones
+Ganancias Totales: 5109.49 millones
+BPA Nicolas (€ p.a.): 0.18
+BPA Gabriela (€ p.a.): 1.18
+BPA Combinada (€ p.a.): 0.85
+Market Cap Nicolas: 329920.01 millones
+Market Cap Gabriela: 2852000.00 millones
+PER Nicolas: 901.89
+PER Gabriela: 604.51
+
+Año: 2025
+Ganancias Combinadas: 5592.01 millones
+Impacto Sinergias: 111.84 millones
+Ganancias Totales: 5678.85 millones
+BPA Nicolas (€ p.a.): 0.18
+BPA Gabriela (€ p.a.): 1.18
+BPA Combinada (€ p.a.): 0.95
+Market Cap Nicolas: 329920.01 millones
+Market Cap Gabriela: 2852000.00 millones
+PER Nicolas: 901.89
+PER Gabriela: 604.51
+
+
+Fusión entre GOOGL y TSLA:Año: 2024
+Ganancias Combinadas: 355.82 millones
+Impacto Sinergias: 3.56 millones
+Ganancias Totales: 334.38 millones
+BPA Nicolas (€ p.a.): 0.18
+BPA Gabriela (€ p.a.): -0.00
+BPA Combinada (€ p.a.): 0.06
+Market Cap Nicolas: 329920.01 millones
+Market Cap Gabriela: 876640.01 millones
+PER Nicolas: 901.89
+PER Gabriela: -87808.43
+
+Año: 2025
+Ganancias Combinadas: 391.41 millones
+Impacto Sinergias: 7.83 millones
+Ganancias Totales: 374.24 millones
+BPA Nicolas (€ p.a.): 0.18
+BPA Gabriela (€ p.a.): -0.00
+BPA Combinada (€ p.a.): 0.06
+Market Cap Nicolas: 329920.01 millones
+Market Cap Gabriela: 876640.01 millones
+PER Nicolas: 901.89
+PER Gabriela: -87808.43
+
+
+Fusión entre GOOGL y NVDA:Año: 2024
+Ganancias Combinadas: 1932.54 millones
+Impacto Sinergias: 19.33 millones
+Ganancias Totales: 1926.87 millones
+BPA Nicolas (€ p.a.): 0.18
+BPA Gabriela (€ p.a.): 0.39
+BPA Combinada (€ p.a.): 0.32
+Market Cap Nicolas: 329920.01 millones
+Market Cap Gabriela: 552280.03 millones
+PER Nicolas: 901.89
+PER Gabriela: 352.50
+
+Año: 2025
+Ganancias Combinadas: 2125.80 millones
+Impacto Sinergias: 42.52 millones
+Ganancias Totales: 2143.31 millones
+BPA Nicolas (€ p.a.): 0.18
+BPA Gabriela (€ p.a.): 0.39
+BPA Combinada (€ p.a.): 0.36
+Market Cap Nicolas: 329920.01 millones
+Market Cap Gabriela: 552280.03 millones
+PER Nicolas: 901.89
+PER Gabriela: 352.50
+
+
+Fusión entre AMZN y META:Año: 2024
+Ganancias Combinadas: 4356.56 millones
+Impacto Sinergias: 43.57 millones
+Ganancias Totales: 4375.12 millones
+BPA Nicolas (€ p.a.): 0.21
+BPA Gabriela (€ p.a.): 0.99
+BPA Combinada (€ p.a.): 0.73
+Market Cap Nicolas: 375079.99 millones
+Market Cap Gabriela: 2361679.93 millones
+PER Nicolas: 910.80
+PER Gabriela: 598.69
+
+Año: 2025
+Ganancias Combinadas: 4792.21 millones
+Impacto Sinergias: 95.84 millones
+Ganancias Totales: 4863.06 millones
+BPA Nicolas (€ p.a.): 0.21
+BPA Gabriela (€ p.a.): 0.99
+BPA Combinada (€ p.a.): 0.81
+Market Cap Nicolas: 375079.99 millones
+Market Cap Gabriela: 2361679.93 millones
+PER Nicolas: 910.80
+PER Gabriela: 598.69
+
+
+Fusión entre AMZN y NFLX:Año: 2024
+Ganancias Combinadas: 5129.66 millones
+Impacto Sinergias: 51.30 millones
+Ganancias Totales: 5155.95 millones
+BPA Nicolas (€ p.a.): 0.21
+BPA Gabriela (€ p.a.): 1.18
+BPA Combinada (€ p.a.): 0.86
+Market Cap Nicolas: 375079.99 millones
+Market Cap Gabriela: 2852000.00 millones
+PER Nicolas: 910.80
+PER Gabriela: 604.51
+
+Año: 2025
+Ganancias Combinadas: 5642.62 millones
+Impacto Sinergias: 112.85 millones
+Ganancias Totales: 5730.47 millones
+BPA Nicolas (€ p.a.): 0.21
+BPA Gabriela (€ p.a.): 1.18
+BPA Combinada (€ p.a.): 0.96
+Market Cap Nicolas: 375079.99 millones
+Market Cap Gabriela: 2852000.00 millones
+PER Nicolas: 910.80
+PER Gabriela: 604.51
+
+
+Fusión entre AMZN y TSLA:Año: 2024
+Ganancias Combinadas: 401.83 millones
+Impacto Sinergias: 4.02 millones
+Ganancias Totales: 380.85 millones
+BPA Nicolas (€ p.a.): 0.21
+BPA Gabriela (€ p.a.): -0.00
+BPA Combinada (€ p.a.): 0.06
+Market Cap Nicolas: 375079.99 millones
+Market Cap Gabriela: 876640.01 millones
+PER Nicolas: 910.80
+PER Gabriela: -87808.43
+
+Año: 2025
+Ganancias Combinadas: 442.01 millones
+Impacto Sinergias: 8.84 millones
+Ganancias Totales: 425.85 millones
+BPA Nicolas (€ p.a.): 0.21
+BPA Gabriela (€ p.a.): -0.00
+BPA Combinada (€ p.a.): 0.07
+Market Cap Nicolas: 375079.99 millones
+Market Cap Gabriela: 876640.01 millones
+PER Nicolas: 910.80
+PER Gabriela: -87808.43
+
+
+Fusión entre AMZN y NVDA:Año: 2024
+Ganancias Combinadas: 1978.55 millones
+Impacto Sinergias: 19.79 millones
+Ganancias Totales: 1973.33 millones
+BPA Nicolas (€ p.a.): 0.21
+BPA Gabriela (€ p.a.): 0.39
+BPA Combinada (€ p.a.): 0.33
+Market Cap Nicolas: 375079.99 millones
+Market Cap Gabriela: 552280.03 millones
+PER Nicolas: 910.80
+PER Gabriela: 352.50
+
+Año: 2025
+Ganancias Combinadas: 2176.40 millones
+Impacto Sinergias: 43.53 millones
+Ganancias Totales: 2194.93 millones
+BPA Nicolas (€ p.a.): 0.21
+BPA Gabriela (€ p.a.): 0.39
+BPA Combinada (€ p.a.): 0.37
+Market Cap Nicolas: 375079.99 millones
+Market Cap Gabriela: 552280.03 millones
+PER Nicolas: 910.80
+PER Gabriela: 352.50
+
+
+Fusión entre META y NFLX:Año: 2024
+Ganancias Combinadas: 6690.21 millones
+Impacto Sinergias: 66.90 millones
+Ganancias Totales: 6732.11 millones
+BPA Nicolas (€ p.a.): 0.99
+BPA Gabriela (€ p.a.): 1.18
+BPA Combinada (€ p.a.): 1.12
+Market Cap Nicolas: 1180839.97 millones
+Market Cap Gabriela: 2852000.00 millones
+PER Nicolas: 598.69
+PER Gabriela: 604.51
+
+Año: 2025
+Ganancias Combinadas: 7359.23 millones
+Impacto Sinergias: 147.18 millones
+Ganancias Totales: 7481.42 millones
+BPA Nicolas (€ p.a.): 0.99
+BPA Gabriela (€ p.a.): 1.18
+BPA Combinada (€ p.a.): 1.25
+Market Cap Nicolas: 1180839.97 millones
+Market Cap Gabriela: 2852000.00 millones
+PER Nicolas: 598.69
+PER Gabriela: 604.51
+
+
+Fusión entre META y TSLA:Año: 2024
+Ganancias Combinadas: 1962.39 millones
+Impacto Sinergias: 19.62 millones
+Ganancias Totales: 1957.01 millones
+BPA Nicolas (€ p.a.): 0.99
+BPA Gabriela (€ p.a.): -0.00
+BPA Combinada (€ p.a.): 0.33
+Market Cap Nicolas: 1180839.97 millones
+Market Cap Gabriela: 876640.01 millones
+PER Nicolas: 598.69
+PER Gabriela: -87808.43
+
+Año: 2025
+Ganancias Combinadas: 2158.63 millones
+Impacto Sinergias: 43.17 millones
+Ganancias Totales: 2176.80 millones
+BPA Nicolas (€ p.a.): 0.99
+BPA Gabriela (€ p.a.): -0.00
+BPA Combinada (€ p.a.): 0.36
+Market Cap Nicolas: 1180839.97 millones
+Market Cap Gabriela: 876640.01 millones
+PER Nicolas: 598.69
+PER Gabriela: -87808.43
+
+
+Fusión entre META y NVDA:Año: 2024
+Ganancias Combinadas: 3539.11 millones
+Impacto Sinergias: 35.39 millones
+Ganancias Totales: 3549.50 millones
+BPA Nicolas (€ p.a.): 0.99
+BPA Gabriela (€ p.a.): 0.39
+BPA Combinada (€ p.a.): 0.59
+Market Cap Nicolas: 1180839.97 millones
+Market Cap Gabriela: 552280.03 millones
+PER Nicolas: 598.69
+PER Gabriela: 352.50
+
+Año: 2025
+Ganancias Combinadas: 3893.02 millones
+Impacto Sinergias: 77.86 millones
+Ganancias Totales: 3945.88 millones
+BPA Nicolas (€ p.a.): 0.99
+BPA Gabriela (€ p.a.): 0.39
+BPA Combinada (€ p.a.): 0.66
+Market Cap Nicolas: 1180839.97 millones
+Market Cap Gabriela: 552280.03 millones
+PER Nicolas: 598.69
+PER Gabriela: 352.50
+
+
+Fusión entre NFLX y TSLA:Año: 2024
+Ganancias Combinadas: 2348.94 millones
+Impacto Sinergias: 23.49 millones
+Ganancias Totales: 2347.43 millones
+BPA Nicolas (€ p.a.): 1.18
+BPA Gabriela (€ p.a.): -0.00
+BPA Combinada (€ p.a.): 0.39
+Market Cap Nicolas: 1426000.00 millones
+Market Cap Gabriela: 876640.01 millones
+PER Nicolas: 604.51
+PER Gabriela: -87808.43
+
+Año: 2025
+Ganancias Combinadas: 2583.83 millones
+Impacto Sinergias: 51.68 millones
+Ganancias Totales: 2610.51 millones
+BPA Nicolas (€ p.a.): 1.18
+BPA Gabriela (€ p.a.): -0.00
+BPA Combinada (€ p.a.): 0.44
+Market Cap Nicolas: 1426000.00 millones
+Market Cap Gabriela: 876640.01 millones
+PER Nicolas: 604.51
+PER Gabriela: -87808.43
+
+
+Fusión entre NFLX y NVDA:Año: 2024
+Ganancias Combinadas: 3925.65 millones
+Impacto Sinergias: 39.26 millones
+Ganancias Totales: 3939.91 millones
+BPA Nicolas (€ p.a.): 1.18
+BPA Gabriela (€ p.a.): 0.39
+BPA Combinada (€ p.a.): 0.66
+Market Cap Nicolas: 1426000.00 millones
+Market Cap Gabriela: 552280.03 millones
+PER Nicolas: 604.51
+PER Gabriela: 352.50
+
+Año: 2025
+Ganancias Combinadas: 4318.22 millones
+Impacto Sinergias: 86.36 millones
+Ganancias Totales: 4379.58 millones
+BPA Nicolas (€ p.a.): 1.18
+BPA Gabriela (€ p.a.): 0.39
+BPA Combinada (€ p.a.): 0.73
+Market Cap Nicolas: 1426000.00 millones
+Market Cap Gabriela: 552280.03 millones
+PER Nicolas: 604.51
+PER Gabriela: 352.50
+
+
+Fusión entre TSLA y NVDA:Año: 2024
+Ganancias Combinadas: 1561.74 millones
+Impacto Sinergias: 15.62 millones
+Ganancias Totales: 1552.36 millones
+BPA Nicolas (€ p.a.): -0.00
+BPA Gabriela (€ p.a.): 0.39
+BPA Combinada (€ p.a.): 0.26
+Market Cap Nicolas: 438320.01 millones
+Market Cap Gabriela: 552280.03 millones
+PER Nicolas: -87808.43
+PER Gabriela: 352.50
+
+Año: 2025
+Ganancias Combinadas: 1717.92 millones
+Impacto Sinergias: 34.36 millones
+Ganancias Totales: 1727.27 millones
+BPA Nicolas (€ p.a.): -0.00
+BPA Gabriela (€ p.a.): 0.39
+BPA Combinada (€ p.a.): 0.29
+Market Cap Nicolas: 438320.01 millones
+Market Cap Gabriela: 552280.03 millones
+PER Nicolas: -87808.43
+PER Gabriela: 352.50
+
+

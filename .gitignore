@@ -83,6 +83,7 @@ Thumbs.db
 *.xlsx
 *.ppt
 *.pptx
+*.html
 
 # Ignore font files
 *.ttf

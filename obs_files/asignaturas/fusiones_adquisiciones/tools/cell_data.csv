@@ -1,0 +1,287 @@
+Cell,Value,Formula
+A2,,
+B2,,
+C2,,
+D2,Nicolas,
+E2,Gabriela,
+A3,Precio,
+D3,3.5,
+E3,Market cap,
+A4,Acciones,
+D4,2000,
+E4,4000,
+A5,Market cap,
+D5,7000,+D4*D3
+E5,16000,+E4*E3
+A7,,
+B7,,
+C7,,
+D7,Año 1,
+E7,Año 2,
+A8,Bº Neto Nicolas,
+D8,350,
+E8,400,
+A9,Bº Neto Gabriela,
+D9,1100,
+E9,1300,
+A11,PER Nicolas (x),
+D11,Nuevas acciones Gabriela,+D5/D8
+E11,17.5,+D5/E8
+A12,PER Gabriela (x),
+D12,14.545454545454545,+E5/D9
+E12,12.307692307692308,+E5/E9
+A14,Margen Nicolas,
+D14,7.0000000000000007E-2,
+E14,7.0000000000000007E-2,
+A15,Margen Gabriela,
+D15,0.1,
+E15,0.1,
+D16,,
+E16,,
+A17,Ingresos Nicolas,
+D17,4999.9999999999991,+D8/D14
+E17,5714.2857142857138,+E8/E14
+A18,Ingresos Gabriela,
+D18,11000,+D9/D15
+E18,13000,+E9/E15
+A20,BPA Nicolas (€ p.a.),
+B20,,
+C20,,
+D20,0.17499999999999999,+D8/D4
+E20,0.2,+E8/D4
+A21,BPA Gabriela (€ p.a.),
+B21,,
+C21,,
+D21,0.27500000000000002,+D9/E4
+E21,0.32500000000000001,+E9/E4
+A24,Calculo de la Ecuacion de Canje Gabriela absorbe Nicolas,
+B24,,
+C24,,
+D24,,
+E24,,
+F24,,
+I24,Calculo de la Ecuacion de Canje Nicolas absorbe Gabriela,
+J24,,
+K24,,
+L24,,
+M24,,
+N24,,
+A25,Valor Nicolas,
+D25,7000,+D5
+I25,Valor Gabriela,
+L25,16000,+E5
+A26,Precio por accion Gab,
+D26,Market cap,+E3
+I26,Precio por accion Nicolas,
+L26,3.5,+D3
+A27,Nuevas acciones Gabriela,
+D27,1750,+D25/D26
+I27,Nuevas acciones Nicolas,
+L27,4571.4285714285716,+L25/L26
+A28,Ecuacion Canje,
+D28,1.1428571428571428,+D4/D27
+I28,Ecuacion Canje,
+L28,1.1428571428571428,+L27/E4
+A30,Gabriela absorbe Nicolas,
+I30,Nicolas absorbe Gabriela,
+A31,,
+B31,,
+C31,,
+D31,Año 1 ,
+E31,Año 2,
+F31,,
+I31,,
+J31,,
+K31,,
+L31,Año 1,
+M31,Año 2,
+N31,,
+A32,Beneficio Combinada,
+D32,1450,+D8+D9
+E32,1700,+E8+E9
+I32,Beneficio Combinada,
+L32,1450,+D32
+M32,1700,+E32
+A33,Acciones Combinada,
+D33,5750,+E4+D27
+E33,5750,+D33
+I33,Acciones Combinada,
+L33,6571.4285714285716,+D4+E5/D3
+M33,6571.4285714285716,+L33
+A34,BPA Combinada (€ p.a.),
+D34,0.25217391304347825,+D32/D33
+E34,0.29565217391304349,+E32/E33
+I34,BPA Combinada (€ p.a.),
+L34,0.22065217391304348,+L32/L33
+M34,0.25869565217391305,+M32/M33
+A36,Para Gabriela,
+F36,,
+I36,Para Gabriela,
+A37,Diferencia,
+B37,,
+C37,,
+D37,-8.3003952569170036E-2,+D34/D21-1
+E37,-9.0301003344481545E-2,+E34/E21-1
+F37,Mal para Gabriela pre sinergias,
+I37,BPA Pre,
+L37,0.27500000000000002,+D21
+M37,0.32500000000000001,+E21
+N37,,
+F38,,
+I38,BPA Post,
+L38,0.25217391304347825,+L34*$L$28
+M38,0.29565217391304349,+M34*$L$28
+N38,,
+A39,Para Nicolas,
+F39,,
+N39,,
+A40,BPA Pre,
+D40,0.19999999999999998,+D20*D28
+E40,0.22857142857142856,+E20*D28
+F40,,
+I40,Diferencia,
+J40,,
+K40,,
+L40,-8.3003952569170036E-2,+L38/L37-1
+M40,-9.0301003344481545E-2,+M38/M37-1
+N40,Mal para Gabriela pre sinergias,
+A41,BPA Post,
+D41,0.25217391304347825,+D34
+E41,0.29565217391304349,+E34
+F41,,
+N41,,
+F42,,
+I42,Para Nicolas,
+N42,,
+A43,Diferencia,
+B43,,
+C43,,
+D43,0.26086956521739135,+D41/D40-1
+E43,0.29347826086956541,+E41/E40-1
+F43,Bien para Nicolas pre sinergias,
+I43,Diferencia,
+J43,,
+K43,,
+L43,0.26086956521739135,+L34/D20-1
+M43,0.29347826086956519,+M34/E20-1
+N43,Bien para Nicolas pre sinergias,
+F44,,
+N44,,
+A45,Sinergias,
+D45,0.01,
+E45,0.02,
+I45,Sinergias,
+L45,0.01,+D45
+M45,0.02,
+N45,,
+A46,Sinergias,
+D46,160,+D45*(D17+D18)
+E46,374.28571428571428,+E45*(E17+E18)
+I46,Sinergias,
+L46,160,
+M46,374.28571428571428,
+A47,Costes,
+D47,-25,
+E47,-25,
+I47,Costes,
+L47,-25,
+M47,-25,
+A48,Sinergias pre taxes,
+D48,135,+D46+D47
+E48,349.28571428571428,+E46+E47
+I48,Sinergias pre taxes,
+L48,135,
+M48,349.28571428571428,
+A49,Sinergias post taxes,
+D49,101.25,+D48*0.75
+E49,261.96428571428572,+E48*0.75
+I49,Sinergias post taxes,
+L49,101.25,
+M49,261.96428571428572,
+D50,,
+E50,,
+L50,,
+M50,,
+A51,Beneficio Combinada Post Sinergias,
+D51,1551.25,+D8+D9+D49
+E51,1961.9642857142858,+E8+E9+E49
+I51,Beneficio Combinada Post Sinergias,
+L51,1551.25,+D51
+M51,1961.9642857142858,+E51
+A52,Acciones,
+D52,5750,+D33
+E52,5750,+D52
+I52,Acciones,
+L52,6571.4285714285716,+L33
+M52,6571.4285714285716,+L52
+A53,BPA Combinada Post Sinergias,
+D53,0.26978260869565218,+D51/D52
+E53,0.34121118012422363,+E51/E52
+I53,BPA Combinada Post Sinergias,
+L53,0.23605978260869565,+L51/L52
+M53,0.29855978260869565,+M51/M52
+A56,Para Gabriela,
+F56,,
+I56,Para Gabriela,
+A57,Diferencia,
+B57,,
+C57,,
+D57,-1.8972332015810278E-2,+D53/D21-1
+E57,4.9880554228380447E-2,+E53/E21-1
+F57,Bien post sinergias,
+I57,BPA Pre,
+L57,0.27500000000000002,+L37
+M57,0.32500000000000001,+M37
+O57,,
+F58,,
+I58,BPA Post,
+L58,0.26978260869565213,+L53*$L$28
+M58,0.34121118012422358,+M53*$L$28
+O58,,
+A59,Para Nicolas,
+F59,,
+O59,,
+A60,BPA Pre,
+D60,0.19999999999999998,+D40
+E60,0.22857142857142856,+E40
+F60,,
+I60,Diferencia,
+J60,,
+K60,,
+L60,-1.89723320158105E-2,+L58/L57-1
+M60,4.9880554228380225E-2,+M58/M57-1
+N60,,
+O60,Bien post sinergias,
+A61,BPA Post,
+D61,0.26978260869565218,+D53
+E61,0.34121118012422363,+E53
+F61,,
+O61,,
+F62,,
+I62,Para Nicolas,
+O62,,
+A63,Diferencia,
+B63,,
+C63,,
+D63,0.34891304347826102,+D61/D60-1
+E63,0.49279891304347845,+E61/E60-1
+F63,Bien post sinergias,
+I63,Diferencia,
+J63,,
+K63,,
+L63,0.34891304347826102,+L53/D20-1
+M63,0.49279891304347823,+M53/E20-1
+N63,,
+O63,Bien post sinergias,
+F64,,
+O64,,
+A65,4.- ¿Puede una operación ser buena para las dos empresas que se fusionan?,
+O65,,
+A66,a.- Una operación puede ser buena o acrecitiva para las dos empresas que se fusionan cuando existen una valoraciones relativas de las empresas similares ,
+A67,en terminos de beneficios netos y ademas hay sinergias que impactan en la entidad resultante,
+A69,5.- Social Issues,
+A70,a.- Definicion de la sede social y su localizacion,
+A71,b.- Quien es el Presidente y CEO,
+A72,c.- Composicion del Consejo de Administracion,
+A73,d.- Estrategia de la empresa a futuro,
+A74,"e.- Cultuta corporativa, empleados clave",

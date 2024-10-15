@@ -1,0 +1,1884 @@
+{
+    "workbook": {
+        "sheets": [
+            {
+                "name": "Solucion Caso Nicolas y Gabriel",
+                "sheetId": "1",
+                "id": "rId1"
+            }
+        ]
+    },
+    "sheet1": {
+        "cells": [
+            {
+                "ref": "A2",
+                "type": null,
+                "value": null,
+                "formula": null
+            },
+            {
+                "ref": "B2",
+                "type": null,
+                "value": null,
+                "formula": null
+            },
+            {
+                "ref": "C2",
+                "type": null,
+                "value": null,
+                "formula": null
+            },
+            {
+                "ref": "D2",
+                "type": "s",
+                "value": "0",
+                "formula": null
+            },
+            {
+                "ref": "E2",
+                "type": "s",
+                "value": "1",
+                "formula": null
+            },
+            {
+                "ref": "A3",
+                "type": "s",
+                "value": "2",
+                "formula": null
+            },
+            {
+                "ref": "D3",
+                "type": null,
+                "value": "3.5",
+                "formula": null
+            },
+            {
+                "ref": "E3",
+                "type": null,
+                "value": "4",
+                "formula": null
+            },
+            {
+                "ref": "A4",
+                "type": "s",
+                "value": "3",
+                "formula": null
+            },
+            {
+                "ref": "D4",
+                "type": null,
+                "value": "2000",
+                "formula": null
+            },
+            {
+                "ref": "E4",
+                "type": null,
+                "value": "4000",
+                "formula": null
+            },
+            {
+                "ref": "A5",
+                "type": "s",
+                "value": "4",
+                "formula": null
+            },
+            {
+                "ref": "D5",
+                "type": null,
+                "value": "7000",
+                "formula": "+D4*D3"
+            },
+            {
+                "ref": "E5",
+                "type": null,
+                "value": "16000",
+                "formula": "+E4*E3"
+            },
+            {
+                "ref": "A7",
+                "type": null,
+                "value": null,
+                "formula": null
+            },
+            {
+                "ref": "B7",
+                "type": null,
+                "value": null,
+                "formula": null
+            },
+            {
+                "ref": "C7",
+                "type": null,
+                "value": null,
+                "formula": null
+            },
+            {
+                "ref": "D7",
+                "type": "s",
+                "value": "31",
+                "formula": null
+            },
+            {
+                "ref": "E7",
+                "type": "s",
+                "value": "32",
+                "formula": null
+            },
+            {
+                "ref": "A8",
+                "type": "s",
+                "value": "45",
+                "formula": null
+            },
+            {
+                "ref": "D8",
+                "type": null,
+                "value": "350",
+                "formula": null
+            },
+            {
+                "ref": "E8",
+                "type": null,
+                "value": "400",
+                "formula": null
+            },
+            {
+                "ref": "A9",
+                "type": "s",
+                "value": "46",
+                "formula": null
+            },
+            {
+                "ref": "D9",
+                "type": null,
+                "value": "1100",
+                "formula": null
+            },
+            {
+                "ref": "E9",
+                "type": null,
+                "value": "1300",
+                "formula": null
+            },
+            {
+                "ref": "A11",
+                "type": "s",
+                "value": "47",
+                "formula": null
+            },
+            {
+                "ref": "D11",
+                "type": null,
+                "value": "20",
+                "formula": "+D5/D8"
+            },
+            {
+                "ref": "E11",
+                "type": null,
+                "value": "17.5",
+                "formula": "+D5/E8"
+            },
+            {
+                "ref": "A12",
+                "type": "s",
+                "value": "48",
+                "formula": null
+            },
+            {
+                "ref": "D12",
+                "type": null,
+                "value": "14.545454545454545",
+                "formula": "+E5/D9"
+            },
+            {
+                "ref": "E12",
+                "type": null,
+                "value": "12.307692307692308",
+                "formula": "+E5/E9"
+            },
+            {
+                "ref": "A14",
+                "type": "s",
+                "value": "13",
+                "formula": null
+            },
+            {
+                "ref": "D14",
+                "type": null,
+                "value": "7.0000000000000007E-2",
+                "formula": null
+            },
+            {
+                "ref": "E14",
+                "type": null,
+                "value": "7.0000000000000007E-2",
+                "formula": null
+            },
+            {
+                "ref": "A15",
+                "type": "s",
+                "value": "14",
+                "formula": null
+            },
+            {
+                "ref": "D15",
+                "type": null,
+                "value": "0.1",
+                "formula": null
+            },
+            {
+                "ref": "E15",
+                "type": null,
+                "value": "0.1",
+                "formula": null
+            },
+            {
+                "ref": "D16",
+                "type": null,
+                "value": null,
+                "formula": null
+            },
+            {
+                "ref": "E16",
+                "type": null,
+                "value": null,
+                "formula": null
+            },
+            {
+                "ref": "A17",
+                "type": "s",
+                "value": "15",
+                "formula": null
+            },
+            {
+                "ref": "D17",
+                "type": null,
+                "value": "4999.9999999999991",
+                "formula": "+D8/D14"
+            },
+            {
+                "ref": "E17",
+                "type": null,
+                "value": "5714.2857142857138",
+                "formula": "+E8/E14"
+            },
+            {
+                "ref": "A18",
+                "type": "s",
+                "value": "25",
+                "formula": null
+            },
+            {
+                "ref": "D18",
+                "type": null,
+                "value": "11000",
+                "formula": "+D9/D15"
+            },
+            {
+                "ref": "E18",
+                "type": null,
+                "value": "13000",
+                "formula": "+E9/E15"
+            },
+            {
+                "ref": "A20",
+                "type": "s",
+                "value": "52",
+                "formula": null
+            },
+            {
+                "ref": "B20",
+                "type": null,
+                "value": null,
+                "formula": null
+            },
+            {
+                "ref": "C20",
+                "type": null,
+                "value": null,
+                "formula": null
+            },
+            {
+                "ref": "D20",
+                "type": null,
+                "value": "0.17499999999999999",
+                "formula": "+D8/D4"
+            },
+            {
+                "ref": "E20",
+                "type": null,
+                "value": "0.2",
+                "formula": "+E8/D4"
+            },
+            {
+                "ref": "A21",
+                "type": "s",
+                "value": "53",
+                "formula": null
+            },
+            {
+                "ref": "B21",
+                "type": null,
+                "value": null,
+                "formula": null
+            },
+            {
+                "ref": "C21",
+                "type": null,
+                "value": null,
+                "formula": null
+            },
+            {
+                "ref": "D21",
+                "type": null,
+                "value": "0.27500000000000002",
+                "formula": "+D9/E4"
+            },
+            {
+                "ref": "E21",
+                "type": null,
+                "value": "0.32500000000000001",
+                "formula": "+E9/E4"
+            },
+            {
+                "ref": "A24",
+                "type": "s",
+                "value": "49",
+                "formula": null
+            },
+            {
+                "ref": "B24",
+                "type": null,
+                "value": null,
+                "formula": null
+            },
+            {
+                "ref": "C24",
+                "type": null,
+                "value": null,
+                "formula": null
+            },
+            {
+                "ref": "D24",
+                "type": null,
+                "value": null,
+                "formula": null
+            },
+            {
+                "ref": "E24",
+                "type": null,
+                "value": null,
+                "formula": null
+            },
+            {
+                "ref": "F24",
+                "type": null,
+                "value": null,
+                "formula": null
+            },
+            {
+                "ref": "I24",
+                "type": "s",
+                "value": "50",
+                "formula": null
+            },
+            {
+                "ref": "J24",
+                "type": null,
+                "value": null,
+                "formula": null
+            },
+            {
+                "ref": "K24",
+                "type": null,
+                "value": null,
+                "formula": null
+            },
+            {
+                "ref": "L24",
+                "type": null,
+                "value": null,
+                "formula": null
+            },
+            {
+                "ref": "M24",
+                "type": null,
+                "value": null,
+                "formula": null
+            },
+            {
+                "ref": "N24",
+                "type": null,
+                "value": null,
+                "formula": null
+            },
+            {
+                "ref": "A25",
+                "type": "s",
+                "value": "5",
+                "formula": null
+            },
+            {
+                "ref": "D25",
+                "type": null,
+                "value": "7000",
+                "formula": "+D5"
+            },
+            {
+                "ref": "I25",
+                "type": "s",
+                "value": "28",
+                "formula": null
+            },
+            {
+                "ref": "L25",
+                "type": null,
+                "value": "16000",
+                "formula": "+E5"
+            },
+            {
+                "ref": "A26",
+                "type": "s",
+                "value": "6",
+                "formula": null
+            },
+            {
+                "ref": "D26",
+                "type": null,
+                "value": "4",
+                "formula": "+E3"
+            },
+            {
+                "ref": "I26",
+                "type": "s",
+                "value": "29",
+                "formula": null
+            },
+            {
+                "ref": "L26",
+                "type": null,
+                "value": "3.5",
+                "formula": "+D3"
+            },
+            {
+                "ref": "A27",
+                "type": "s",
+                "value": "20",
+                "formula": null
+            },
+            {
+                "ref": "D27",
+                "type": null,
+                "value": "1750",
+                "formula": "+D25/D26"
+            },
+            {
+                "ref": "I27",
+                "type": "s",
+                "value": "30",
+                "formula": null
+            },
+            {
+                "ref": "L27",
+                "type": null,
+                "value": "4571.4285714285716",
+                "formula": "+L25/L26"
+            },
+            {
+                "ref": "A28",
+                "type": "s",
+                "value": "8",
+                "formula": null
+            },
+            {
+                "ref": "D28",
+                "type": null,
+                "value": "1.1428571428571428",
+                "formula": "+D4/D27"
+            },
+            {
+                "ref": "I28",
+                "type": "s",
+                "value": "8",
+                "formula": null
+            },
+            {
+                "ref": "L28",
+                "type": null,
+                "value": "1.1428571428571428",
+                "formula": "+L27/E4"
+            },
+            {
+                "ref": "A30",
+                "type": "s",
+                "value": "26",
+                "formula": null
+            },
+            {
+                "ref": "I30",
+                "type": "s",
+                "value": "27",
+                "formula": null
+            },
+            {
+                "ref": "A31",
+                "type": null,
+                "value": null,
+                "formula": null
+            },
+            {
+                "ref": "B31",
+                "type": null,
+                "value": null,
+                "formula": null
+            },
+            {
+                "ref": "C31",
+                "type": null,
+                "value": null,
+                "formula": null
+            },
+            {
+                "ref": "D31",
+                "type": "s",
+                "value": "33",
+                "formula": null
+            },
+            {
+                "ref": "E31",
+                "type": "s",
+                "value": "32",
+                "formula": null
+            },
+            {
+                "ref": "F31",
+                "type": null,
+                "value": null,
+                "formula": null
+            },
+            {
+                "ref": "I31",
+                "type": null,
+                "value": null,
+                "formula": null
+            },
+            {
+                "ref": "J31",
+                "type": null,
+                "value": null,
+                "formula": null
+            },
+            {
+                "ref": "K31",
+                "type": null,
+                "value": null,
+                "formula": null
+            },
+            {
+                "ref": "L31",
+                "type": "s",
+                "value": "31",
+                "formula": null
+            },
+            {
+                "ref": "M31",
+                "type": "s",
+                "value": "32",
+                "formula": null
+            },
+            {
+                "ref": "N31",
+                "type": null,
+                "value": null,
+                "formula": null
+            },
+            {
+                "ref": "A32",
+                "type": "s",
+                "value": "19",
+                "formula": null
+            },
+            {
+                "ref": "D32",
+                "type": null,
+                "value": "1450",
+                "formula": "+D8+D9"
+            },
+            {
+                "ref": "E32",
+                "type": null,
+                "value": "1700",
+                "formula": "+E8+E9"
+            },
+            {
+                "ref": "I32",
+                "type": "s",
+                "value": "19",
+                "formula": null
+            },
+            {
+                "ref": "L32",
+                "type": null,
+                "value": "1450",
+                "formula": "+D32"
+            },
+            {
+                "ref": "M32",
+                "type": null,
+                "value": "1700",
+                "formula": "+E32"
+            },
+            {
+                "ref": "A33",
+                "type": "s",
+                "value": "7",
+                "formula": null
+            },
+            {
+                "ref": "D33",
+                "type": null,
+                "value": "5750",
+                "formula": "+E4+D27"
+            },
+            {
+                "ref": "E33",
+                "type": null,
+                "value": "5750",
+                "formula": "+D33"
+            },
+            {
+                "ref": "I33",
+                "type": "s",
+                "value": "7",
+                "formula": null
+            },
+            {
+                "ref": "L33",
+                "type": null,
+                "value": "6571.4285714285716",
+                "formula": "+D4+E5/D3"
+            },
+            {
+                "ref": "M33",
+                "type": null,
+                "value": "6571.4285714285716",
+                "formula": "+L33"
+            },
+            {
+                "ref": "A34",
+                "type": "s",
+                "value": "51",
+                "formula": null
+            },
+            {
+                "ref": "D34",
+                "type": null,
+                "value": "0.25217391304347825",
+                "formula": "+D32/D33"
+            },
+            {
+                "ref": "E34",
+                "type": null,
+                "value": "0.29565217391304349",
+                "formula": "+E32/E33"
+            },
+            {
+                "ref": "I34",
+                "type": "s",
+                "value": "51",
+                "formula": null
+            },
+            {
+                "ref": "L34",
+                "type": null,
+                "value": "0.22065217391304348",
+                "formula": "+L32/L33"
+            },
+            {
+                "ref": "M34",
+                "type": null,
+                "value": "0.25869565217391305",
+                "formula": "+M32/M33"
+            },
+            {
+                "ref": "A36",
+                "type": "s",
+                "value": "9",
+                "formula": null
+            },
+            {
+                "ref": "F36",
+                "type": null,
+                "value": null,
+                "formula": null
+            },
+            {
+                "ref": "I36",
+                "type": "s",
+                "value": "9",
+                "formula": null
+            },
+            {
+                "ref": "A37",
+                "type": "s",
+                "value": "21",
+                "formula": null
+            },
+            {
+                "ref": "B37",
+                "type": null,
+                "value": null,
+                "formula": null
+            },
+            {
+                "ref": "C37",
+                "type": null,
+                "value": null,
+                "formula": null
+            },
+            {
+                "ref": "D37",
+                "type": null,
+                "value": "-8.3003952569170036E-2",
+                "formula": "+D34/D21-1"
+            },
+            {
+                "ref": "E37",
+                "type": null,
+                "value": "-9.0301003344481545E-2",
+                "formula": "+E34/E21-1"
+            },
+            {
+                "ref": "F37",
+                "type": "s",
+                "value": "37",
+                "formula": null
+            },
+            {
+                "ref": "I37",
+                "type": "s",
+                "value": "11",
+                "formula": null
+            },
+            {
+                "ref": "L37",
+                "type": null,
+                "value": "0.27500000000000002",
+                "formula": "+D21"
+            },
+            {
+                "ref": "M37",
+                "type": null,
+                "value": "0.32500000000000001",
+                "formula": "+E21"
+            },
+            {
+                "ref": "N37",
+                "type": null,
+                "value": null,
+                "formula": null
+            },
+            {
+                "ref": "F38",
+                "type": null,
+                "value": null,
+                "formula": null
+            },
+            {
+                "ref": "I38",
+                "type": "s",
+                "value": "12",
+                "formula": null
+            },
+            {
+                "ref": "L38",
+                "type": null,
+                "value": "0.25217391304347825",
+                "formula": "+L34*$L$28"
+            },
+            {
+                "ref": "M38",
+                "type": null,
+                "value": "0.29565217391304349",
+                "formula": "+M34*$L$28"
+            },
+            {
+                "ref": "N38",
+                "type": null,
+                "value": null,
+                "formula": null
+            },
+            {
+                "ref": "A39",
+                "type": "s",
+                "value": "10",
+                "formula": null
+            },
+            {
+                "ref": "F39",
+                "type": null,
+                "value": null,
+                "formula": null
+            },
+            {
+                "ref": "N39",
+                "type": null,
+                "value": null,
+                "formula": null
+            },
+            {
+                "ref": "A40",
+                "type": "s",
+                "value": "11",
+                "formula": null
+            },
+            {
+                "ref": "D40",
+                "type": null,
+                "value": "0.19999999999999998",
+                "formula": "+D20*D28"
+            },
+            {
+                "ref": "E40",
+                "type": null,
+                "value": "0.22857142857142856",
+                "formula": "+E20*D28"
+            },
+            {
+                "ref": "F40",
+                "type": null,
+                "value": null,
+                "formula": null
+            },
+            {
+                "ref": "I40",
+                "type": "s",
+                "value": "21",
+                "formula": null
+            },
+            {
+                "ref": "J40",
+                "type": null,
+                "value": null,
+                "formula": null
+            },
+            {
+                "ref": "K40",
+                "type": null,
+                "value": null,
+                "formula": null
+            },
+            {
+                "ref": "L40",
+                "type": null,
+                "value": "-8.3003952569170036E-2",
+                "formula": "+L38/L37-1"
+            },
+            {
+                "ref": "M40",
+                "type": null,
+                "value": "-9.0301003344481545E-2",
+                "formula": "+M38/M37-1"
+            },
+            {
+                "ref": "N40",
+                "type": "s",
+                "value": "37",
+                "formula": null
+            },
+            {
+                "ref": "A41",
+                "type": "s",
+                "value": "12",
+                "formula": null
+            },
+            {
+                "ref": "D41",
+                "type": null,
+                "value": "0.25217391304347825",
+                "formula": "+D34"
+            },
+            {
+                "ref": "E41",
+                "type": null,
+                "value": "0.29565217391304349",
+                "formula": "+E34"
+            },
+            {
+                "ref": "F41",
+                "type": null,
+                "value": null,
+                "formula": null
+            },
+            {
+                "ref": "N41",
+                "type": null,
+                "value": null,
+                "formula": null
+            },
+            {
+                "ref": "F42",
+                "type": null,
+                "value": null,
+                "formula": null
+            },
+            {
+                "ref": "I42",
+                "type": "s",
+                "value": "10",
+                "formula": null
+            },
+            {
+                "ref": "N42",
+                "type": null,
+                "value": null,
+                "formula": null
+            },
+            {
+                "ref": "A43",
+                "type": "s",
+                "value": "21",
+                "formula": null
+            },
+            {
+                "ref": "B43",
+                "type": null,
+                "value": null,
+                "formula": null
+            },
+            {
+                "ref": "C43",
+                "type": null,
+                "value": null,
+                "formula": null
+            },
+            {
+                "ref": "D43",
+                "type": null,
+                "value": "0.26086956521739135",
+                "formula": "+D41/D40-1"
+            },
+            {
+                "ref": "E43",
+                "type": null,
+                "value": "0.29347826086956541",
+                "formula": "+E41/E40-1"
+            },
+            {
+                "ref": "F43",
+                "type": "s",
+                "value": "36",
+                "formula": null
+            },
+            {
+                "ref": "I43",
+                "type": "s",
+                "value": "21",
+                "formula": null
+            },
+            {
+                "ref": "J43",
+                "type": null,
+                "value": null,
+                "formula": null
+            },
+            {
+                "ref": "K43",
+                "type": null,
+                "value": null,
+                "formula": null
+            },
+            {
+                "ref": "L43",
+                "type": null,
+                "value": "0.26086956521739135",
+                "formula": "+L34/D20-1"
+            },
+            {
+                "ref": "M43",
+                "type": null,
+                "value": "0.29347826086956519",
+                "formula": "+M34/E20-1"
+            },
+            {
+                "ref": "N43",
+                "type": "s",
+                "value": "36",
+                "formula": null
+            },
+            {
+                "ref": "F44",
+                "type": null,
+                "value": null,
+                "formula": null
+            },
+            {
+                "ref": "N44",
+                "type": null,
+                "value": null,
+                "formula": null
+            },
+            {
+                "ref": "A45",
+                "type": "s",
+                "value": "16",
+                "formula": null
+            },
+            {
+                "ref": "D45",
+                "type": null,
+                "value": "0.01",
+                "formula": null
+            },
+            {
+                "ref": "E45",
+                "type": null,
+                "value": "0.02",
+                "formula": null
+            },
+            {
+                "ref": "I45",
+                "type": "s",
+                "value": "16",
+                "formula": null
+            },
+            {
+                "ref": "L45",
+                "type": null,
+                "value": "0.01",
+                "formula": "+D45"
+            },
+            {
+                "ref": "M45",
+                "type": null,
+                "value": "0.02",
+                "formula": null
+            },
+            {
+                "ref": "N45",
+                "type": null,
+                "value": null,
+                "formula": null
+            },
+            {
+                "ref": "A46",
+                "type": "s",
+                "value": "16",
+                "formula": null
+            },
+            {
+                "ref": "D46",
+                "type": null,
+                "value": "160",
+                "formula": "+D45*(D17+D18)"
+            },
+            {
+                "ref": "E46",
+                "type": null,
+                "value": "374.28571428571428",
+                "formula": "+E45*(E17+E18)"
+            },
+            {
+                "ref": "I46",
+                "type": "s",
+                "value": "16",
+                "formula": null
+            },
+            {
+                "ref": "L46",
+                "type": null,
+                "value": "160",
+                "formula": null
+            },
+            {
+                "ref": "M46",
+                "type": null,
+                "value": "374.28571428571428",
+                "formula": null
+            },
+            {
+                "ref": "A47",
+                "type": "s",
+                "value": "17",
+                "formula": null
+            },
+            {
+                "ref": "D47",
+                "type": null,
+                "value": "-25",
+                "formula": null
+            },
+            {
+                "ref": "E47",
+                "type": null,
+                "value": "-25",
+                "formula": null
+            },
+            {
+                "ref": "I47",
+                "type": "s",
+                "value": "17",
+                "formula": null
+            },
+            {
+                "ref": "L47",
+                "type": null,
+                "value": "-25",
+                "formula": null
+            },
+            {
+                "ref": "M47",
+                "type": null,
+                "value": "-25",
+                "formula": null
+            },
+            {
+                "ref": "A48",
+                "type": "s",
+                "value": "22",
+                "formula": null
+            },
+            {
+                "ref": "D48",
+                "type": null,
+                "value": "135",
+                "formula": "+D46+D47"
+            },
+            {
+                "ref": "E48",
+                "type": null,
+                "value": "349.28571428571428",
+                "formula": "+E46+E47"
+            },
+            {
+                "ref": "I48",
+                "type": "s",
+                "value": "22",
+                "formula": null
+            },
+            {
+                "ref": "L48",
+                "type": null,
+                "value": "135",
+                "formula": null
+            },
+            {
+                "ref": "M48",
+                "type": null,
+                "value": "349.28571428571428",
+                "formula": null
+            },
+            {
+                "ref": "A49",
+                "type": "s",
+                "value": "18",
+                "formula": null
+            },
+            {
+                "ref": "D49",
+                "type": null,
+                "value": "101.25",
+                "formula": "+D48*0.75"
+            },
+            {
+                "ref": "E49",
+                "type": null,
+                "value": "261.96428571428572",
+                "formula": "+E48*0.75"
+            },
+            {
+                "ref": "I49",
+                "type": "s",
+                "value": "18",
+                "formula": null
+            },
+            {
+                "ref": "L49",
+                "type": null,
+                "value": "101.25",
+                "formula": null
+            },
+            {
+                "ref": "M49",
+                "type": null,
+                "value": "261.96428571428572",
+                "formula": null
+            },
+            {
+                "ref": "D50",
+                "type": null,
+                "value": null,
+                "formula": null
+            },
+            {
+                "ref": "E50",
+                "type": null,
+                "value": null,
+                "formula": null
+            },
+            {
+                "ref": "L50",
+                "type": null,
+                "value": null,
+                "formula": null
+            },
+            {
+                "ref": "M50",
+                "type": null,
+                "value": null,
+                "formula": null
+            },
+            {
+                "ref": "A51",
+                "type": "s",
+                "value": "24",
+                "formula": null
+            },
+            {
+                "ref": "D51",
+                "type": null,
+                "value": "1551.25",
+                "formula": "+D8+D9+D49"
+            },
+            {
+                "ref": "E51",
+                "type": null,
+                "value": "1961.9642857142858",
+                "formula": "+E8+E9+E49"
+            },
+            {
+                "ref": "I51",
+                "type": "s",
+                "value": "24",
+                "formula": null
+            },
+            {
+                "ref": "L51",
+                "type": null,
+                "value": "1551.25",
+                "formula": "+D51"
+            },
+            {
+                "ref": "M51",
+                "type": null,
+                "value": "1961.9642857142858",
+                "formula": "+E51"
+            },
+            {
+                "ref": "A52",
+                "type": "s",
+                "value": "3",
+                "formula": null
+            },
+            {
+                "ref": "D52",
+                "type": null,
+                "value": "5750",
+                "formula": "+D33"
+            },
+            {
+                "ref": "E52",
+                "type": null,
+                "value": "5750",
+                "formula": "+D52"
+            },
+            {
+                "ref": "I52",
+                "type": "s",
+                "value": "3",
+                "formula": null
+            },
+            {
+                "ref": "L52",
+                "type": null,
+                "value": "6571.4285714285716",
+                "formula": "+L33"
+            },
+            {
+                "ref": "M52",
+                "type": null,
+                "value": "6571.4285714285716",
+                "formula": "+L52"
+            },
+            {
+                "ref": "A53",
+                "type": "s",
+                "value": "23",
+                "formula": null
+            },
+            {
+                "ref": "D53",
+                "type": null,
+                "value": "0.26978260869565218",
+                "formula": "+D51/D52"
+            },
+            {
+                "ref": "E53",
+                "type": null,
+                "value": "0.34121118012422363",
+                "formula": "+E51/E52"
+            },
+            {
+                "ref": "I53",
+                "type": "s",
+                "value": "23",
+                "formula": null
+            },
+            {
+                "ref": "L53",
+                "type": null,
+                "value": "0.23605978260869565",
+                "formula": "+L51/L52"
+            },
+            {
+                "ref": "M53",
+                "type": null,
+                "value": "0.29855978260869565",
+                "formula": "+M51/M52"
+            },
+            {
+                "ref": "A56",
+                "type": "s",
+                "value": "9",
+                "formula": null
+            },
+            {
+                "ref": "F56",
+                "type": null,
+                "value": null,
+                "formula": null
+            },
+            {
+                "ref": "I56",
+                "type": "s",
+                "value": "9",
+                "formula": null
+            },
+            {
+                "ref": "A57",
+                "type": "s",
+                "value": "21",
+                "formula": null
+            },
+            {
+                "ref": "B57",
+                "type": null,
+                "value": null,
+                "formula": null
+            },
+            {
+                "ref": "C57",
+                "type": null,
+                "value": null,
+                "formula": null
+            },
+            {
+                "ref": "D57",
+                "type": null,
+                "value": "-1.8972332015810278E-2",
+                "formula": "+D53/D21-1"
+            },
+            {
+                "ref": "E57",
+                "type": null,
+                "value": "4.9880554228380447E-2",
+                "formula": "+E53/E21-1"
+            },
+            {
+                "ref": "F57",
+                "type": "s",
+                "value": "35",
+                "formula": null
+            },
+            {
+                "ref": "I57",
+                "type": "s",
+                "value": "11",
+                "formula": null
+            },
+            {
+                "ref": "L57",
+                "type": null,
+                "value": "0.27500000000000002",
+                "formula": "+L37"
+            },
+            {
+                "ref": "M57",
+                "type": null,
+                "value": "0.32500000000000001",
+                "formula": "+M37"
+            },
+            {
+                "ref": "O57",
+                "type": null,
+                "value": null,
+                "formula": null
+            },
+            {
+                "ref": "F58",
+                "type": null,
+                "value": null,
+                "formula": null
+            },
+            {
+                "ref": "I58",
+                "type": "s",
+                "value": "12",
+                "formula": null
+            },
+            {
+                "ref": "L58",
+                "type": null,
+                "value": "0.26978260869565213",
+                "formula": "+L53*$L$28"
+            },
+            {
+                "ref": "M58",
+                "type": null,
+                "value": "0.34121118012422358",
+                "formula": "+M53*$L$28"
+            },
+            {
+                "ref": "O58",
+                "type": null,
+                "value": null,
+                "formula": null
+            },
+            {
+                "ref": "A59",
+                "type": "s",
+                "value": "10",
+                "formula": null
+            },
+            {
+                "ref": "F59",
+                "type": null,
+                "value": null,
+                "formula": null
+            },
+            {
+                "ref": "O59",
+                "type": null,
+                "value": null,
+                "formula": null
+            },
+            {
+                "ref": "A60",
+                "type": "s",
+                "value": "11",
+                "formula": null
+            },
+            {
+                "ref": "D60",
+                "type": null,
+                "value": "0.19999999999999998",
+                "formula": "+D40"
+            },
+            {
+                "ref": "E60",
+                "type": null,
+                "value": "0.22857142857142856",
+                "formula": "+E40"
+            },
+            {
+                "ref": "F60",
+                "type": null,
+                "value": null,
+                "formula": null
+            },
+            {
+                "ref": "I60",
+                "type": "s",
+                "value": "21",
+                "formula": null
+            },
+            {
+                "ref": "J60",
+                "type": null,
+                "value": null,
+                "formula": null
+            },
+            {
+                "ref": "K60",
+                "type": null,
+                "value": null,
+                "formula": null
+            },
+            {
+                "ref": "L60",
+                "type": null,
+                "value": "-1.89723320158105E-2",
+                "formula": "+L58/L57-1"
+            },
+            {
+                "ref": "M60",
+                "type": null,
+                "value": "4.9880554228380225E-2",
+                "formula": "+M58/M57-1"
+            },
+            {
+                "ref": "N60",
+                "type": null,
+                "value": null,
+                "formula": null
+            },
+            {
+                "ref": "O60",
+                "type": "s",
+                "value": "35",
+                "formula": null
+            },
+            {
+                "ref": "A61",
+                "type": "s",
+                "value": "12",
+                "formula": null
+            },
+            {
+                "ref": "D61",
+                "type": null,
+                "value": "0.26978260869565218",
+                "formula": "+D53"
+            },
+            {
+                "ref": "E61",
+                "type": null,
+                "value": "0.34121118012422363",
+                "formula": "+E53"
+            },
+            {
+                "ref": "F61",
+                "type": null,
+                "value": null,
+                "formula": null
+            },
+            {
+                "ref": "O61",
+                "type": null,
+                "value": null,
+                "formula": null
+            },
+            {
+                "ref": "F62",
+                "type": null,
+                "value": null,
+                "formula": null
+            },
+            {
+                "ref": "I62",
+                "type": "s",
+                "value": "10",
+                "formula": null
+            },
+            {
+                "ref": "O62",
+                "type": null,
+                "value": null,
+                "formula": null
+            },
+            {
+                "ref": "A63",
+                "type": "s",
+                "value": "21",
+                "formula": null
+            },
+            {
+                "ref": "B63",
+                "type": null,
+                "value": null,
+                "formula": null
+            },
+            {
+                "ref": "C63",
+                "type": null,
+                "value": null,
+                "formula": null
+            },
+            {
+                "ref": "D63",
+                "type": null,
+                "value": "0.34891304347826102",
+                "formula": "+D61/D60-1"
+            },
+            {
+                "ref": "E63",
+                "type": null,
+                "value": "0.49279891304347845",
+                "formula": "+E61/E60-1"
+            },
+            {
+                "ref": "F63",
+                "type": "s",
+                "value": "35",
+                "formula": null
+            },
+            {
+                "ref": "I63",
+                "type": "s",
+                "value": "21",
+                "formula": null
+            },
+            {
+                "ref": "J63",
+                "type": null,
+                "value": null,
+                "formula": null
+            },
+            {
+                "ref": "K63",
+                "type": null,
+                "value": null,
+                "formula": null
+            },
+            {
+                "ref": "L63",
+                "type": null,
+                "value": "0.34891304347826102",
+                "formula": "+L53/D20-1"
+            },
+            {
+                "ref": "M63",
+                "type": null,
+                "value": "0.49279891304347823",
+                "formula": "+M53/E20-1"
+            },
+            {
+                "ref": "N63",
+                "type": null,
+                "value": null,
+                "formula": null
+            },
+            {
+                "ref": "O63",
+                "type": "s",
+                "value": "35",
+                "formula": null
+            },
+            {
+                "ref": "F64",
+                "type": null,
+                "value": null,
+                "formula": null
+            },
+            {
+                "ref": "O64",
+                "type": null,
+                "value": null,
+                "formula": null
+            },
+            {
+                "ref": "A65",
+                "type": "s",
+                "value": "38",
+                "formula": null
+            },
+            {
+                "ref": "O65",
+                "type": null,
+                "value": null,
+                "formula": null
+            },
+            {
+                "ref": "A66",
+                "type": "s",
+                "value": "44",
+                "formula": null
+            },
+            {
+                "ref": "A67",
+                "type": "s",
+                "value": "39",
+                "formula": null
+            },
+            {
+                "ref": "A69",
+                "type": "s",
+                "value": "34",
+                "formula": null
+            },
+            {
+                "ref": "A70",
+                "type": "s",
+                "value": "40",
+                "formula": null
+            },
+            {
+                "ref": "A71",
+                "type": "s",
+                "value": "41",
+                "formula": null
+            },
+            {
+                "ref": "A72",
+                "type": "s",
+                "value": "42",
+                "formula": null
+            },
+            {
+                "ref": "A73",
+                "type": "s",
+                "value": "43",
+                "formula": null
+            },
+            {
+                "ref": "A74",
+                "type": "s",
+                "value": "54",
+                "formula": null
+            }
+        ]
+    },
+    "sharedStrings": [
+        "Nicolas",
+        "Gabriela",
+        "Precio",
+        "Acciones",
+        "Market cap",
+        "Valor Nicolas",
+        "Precio por accion Gab",
+        "Acciones Combinada",
+        "Ecuacion Canje",
+        "Para Gabriela",
+        "Para Nicolas",
+        "BPA Pre",
+        "BPA Post",
+        "Margen Nicolas",
+        "Margen Gabriela",
+        "Ingresos Nicolas",
+        "Sinergias",
+        "Costes",
+        "Sinergias post taxes",
+        "Beneficio Combinada",
+        "Nuevas acciones Gabriela",
+        "Diferencia",
+        "Sinergias pre taxes",
+        "BPA Combinada Post Sinergias",
+        "Beneficio Combinada Post Sinergias",
+        "Ingresos Gabriela",
+        "Gabriela absorbe Nicolas",
+        "Nicolas absorbe Gabriela",
+        "Valor Gabriela",
+        "Precio por accion Nicolas",
+        "Nuevas acciones Nicolas",
+        "A\u00f1o 1",
+        "A\u00f1o 2",
+        "A\u00f1o 1 ",
+        "5.- Social Issues",
+        "Bien post sinergias",
+        "Bien para Nicolas pre sinergias",
+        "Mal para Gabriela pre sinergias",
+        "4.- \u00bfPuede una operaci\u00f3n ser buena para las dos empresas que se fusionan?",
+        "en terminos de beneficios netos y ademas hay sinergias que impactan en la entidad resultante",
+        "a.- Definicion de la sede social y su localizacion",
+        "b.- Quien es el Presidente y CEO",
+        "c.- Composicion del Consejo de Administracion",
+        "d.- Estrategia de la empresa a futuro",
+        "a.- Una operaci\u00f3n puede ser buena o acrecitiva para las dos empresas que se fusionan cuando existen una valoraciones relativas de las empresas similares ",
+        "B\u00ba Neto Nicolas",
+        "B\u00ba Neto Gabriela",
+        "PER Nicolas (x)",
+        "PER Gabriela (x)",
+        "Calculo de la Ecuacion de Canje Gabriela absorbe Nicolas",
+        "Calculo de la Ecuacion de Canje Nicolas absorbe Gabriela",
+        "BPA Combinada (\u20ac p.a.)",
+        "BPA Nicolas (\u20ac p.a.)",
+        "BPA Gabriela (\u20ac p.a.)",
+        "e.- Cultuta corporativa, empleados clave"
+    ],
+    "calcChain": [
+        "L47",
+        "M47",
+        "M45",
+        "L45",
+        "L26",
+        "D18",
+        "E18",
+        "E17",
+        "D17",
+        "E21",
+        "M37",
+        "M57",
+        "D21",
+        "L37",
+        "L57",
+        "E20",
+        "D20",
+        "E32",
+        "M32",
+        "D32",
+        "L32",
+        "D26",
+        "E5",
+        "L25",
+        "D5",
+        "D25",
+        "D27",
+        "D33",
+        "D12",
+        "L27",
+        "L28",
+        "L33",
+        "D46",
+        "E46",
+        "E11",
+        "E12",
+        "D11",
+        "D28",
+        "E40",
+        "E60",
+        "E48",
+        "M46",
+        "L52",
+        "M52",
+        "M33",
+        "M34",
+        "D48",
+        "L46",
+        "L34",
+        "E33",
+        "E34",
+        "E41",
+        "E43",
+        "D52",
+        "D40",
+        "D60",
+        "D34",
+        "D41",
+        "D43",
+        "L43",
+        "L38",
+        "L40",
+        "D49",
+        "L48",
+        "M43",
+        "M38",
+        "M40",
+        "E49",
+        "M48",
+        "E37",
+        "E52",
+        "D37",
+        "E51",
+        "M51",
+        "M53",
+        "M49",
+        "D51",
+        "L49",
+        "E53",
+        "E57",
+        "E61",
+        "E63",
+        "L51",
+        "L53",
+        "D53",
+        "M63",
+        "M58",
+        "M60",
+        "D57",
+        "D61",
+        "D63",
+        "L58",
+        "L60",
+        "L63"
+    ]
+}

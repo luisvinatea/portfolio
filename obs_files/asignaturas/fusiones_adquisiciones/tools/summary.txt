@@ -1,0 +1,38 @@
+Año: 2024
+Ganancias Combinadas: 1450.00 millones
+Impacto Sinergias: 85.29 millones
+Ganancias Totales: 1510.29 millones
+BPA Nicolas (€ p.a.): 0.17
+BPA Gabriela (€ p.a.): 0.28
+BPA Combinada (€ p.a.): 0.25
+Market Cap Nicolas: 7000.00 millones
+Market Cap Gabriela: 16000.00 millones
+PER Nicolas: 20.00
+PER Gabriela: 14.55
+
+Año: 2025
+Ganancias Combinadas: 1700.00 millones
+Impacto Sinergias: 200.00 millones
+Ganancias Totales: 1875.00 millones
+BPA Nicolas (€ p.a.): 0.17
+BPA Gabriela (€ p.a.): 0.28
+BPA Combinada (€ p.a.): 0.31
+Market Cap Nicolas: 7000.00 millones
+Market Cap Gabriela: 16000.00 millones
+PER Nicolas: 20.00
+PER Gabriela: 14.55
+
+Valor Nicolas: 7000.00 millones
+Valor Gabriela: 16000.00 millones
+Nuevas Acciones Gabriela: 1750.00
+Ecuación de Canje (Gabriela absorbe a Nicolas): 0.88
+Acciones Combinadas: 5750.00
+BPA Combinada Post Sinergias (€ p.a.): 4.00
+
+Valor Gabriela: 16000.00 millones
+Valor Nicolas: 7000.00 millones
+Nuevas Acciones Nicolas: 4571.43
+Ecuación de Canje (Nicolas absorbe a Gabriela): 1.14
+Acciones Combinadas: 6571.43
+BPA Combinada Post Sinergias (€ p.a.): 3.50
+
